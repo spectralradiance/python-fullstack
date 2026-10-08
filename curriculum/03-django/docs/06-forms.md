@@ -11,7 +11,7 @@
 
 ## Overview
 
-A `form` is an HTML element that can transmit data from the front-end (client) to the back-end (server). Read more about forms [here](../../2%20Flask%20+%20HTML%20+%20CSS/docs/11%20HTML%20Forms.md). There are 5 important parts to a form:
+A `form` is an HTML element that can transmit data from the front-end (client) to the back-end (server). Read more about forms [here](../../02-flask-html-css/docs/12-html-forms.md). There are 5 important parts to a form:
 
 1. The `action` is the path or url to which the form's data will be submitted.
 2. The `method` is the HTTP method to send the request in (POST, GET).

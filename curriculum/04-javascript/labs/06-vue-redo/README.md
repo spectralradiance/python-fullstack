@@ -2,20 +2,20 @@
 
 # Vue Redo
 
-Let's redo one of the following Python labs in [Vue](../docs/Vue.md)!
+Let's redo one of the following Python labs in [Vue](../../docs/15-vue.md)!
 
-- [Rock, Paper, Scissors](../../1%20Python/labs/05%20Rock%20Paper%20Scissors.md)
+- [Rock, Paper, Scissors](../../../01-python/labs/07-rock-paper-scissors/README.md)
   - Have the user choose rock, paper, or scissors, and show the user who won.
-- [Rot Cipher](../../1%20Python/labs/11%20Rot%20Cipher.md)
+- [Rot Cipher](../../../01-python/labs/15-rot13/README.md)
   - Simple version: the user could just input the word to encode.
   - Complex version: the user could also input the amount to rotate by.
-- [Unit Converter](../../1%20Python/labs/12%20Unit%20Converter.md)
+- [Unit Converter](../../../01-python/labs/16-unit-converter/README.md)
   - Simple version: the user enters the distance and units and the app shows them the converted distance in meters
   - Complex version: the user also enters output units
-- [Random Password Generator](../../1%20Python/labs/06%20Random%20Password%20Generator.md)
+- [Random Password Generator](../../../01-python/labs/06-random-password/README.md)
   - Simple version: the user just enters in the number of characters in the password
   - Complex version: the user enters the number of uppercase letters, lowercase letters, numbers, and special characters
-- [Number to Phrase](../../1%20Python/mob/05%20Number%20to%20Phrase.md)
+- [Number to Phrase](../../../01-python/labs/17-number-to-phrase/README.md)
   - Have the user enter the number (5) and get back the corresponding word in english (five)
 
 

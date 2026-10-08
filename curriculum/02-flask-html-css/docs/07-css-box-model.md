@@ -2,7 +2,7 @@
 
 # CSS Box Model
 
-The Box Model determines how HTML elements are positioned relative to each other. The `margin` represents the spacing around an element, the `border` represents the spacing on the boundary of an element, and the `padding` represents spacing within an element. You can read more about the box model on the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model). You can read more about length units in the [CSS Overview](03%20-%20CSS%20Overview.md#css-lengths).
+The Box Model determines how HTML elements are positioned relative to each other. The `margin` represents the spacing around an element, the `border` represents the spacing on the boundary of an element, and the `padding` represents spacing within an element. You can read more about the box model on the [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model). You can read more about length units in the [CSS Overview](04-css-overview.md#css-lengths).
 
 - [Margin & Padding](#margin--padding)
 - [Border](#border)

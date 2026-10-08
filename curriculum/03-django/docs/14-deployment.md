@@ -71,7 +71,7 @@ To allow your site to use HTTP, you must install an SSL Certificate on your serv
 
 First check out the [Django deployment checklist](https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/) and working with [static files](https://docs.djangoproject.com/en/3.2/howto/static-files/deployment/), then consider these additional steps.
 
-- Set up a [virtual environment](../../1%20Python/docs/Virtual%20Environments.md) with a `requirements.txt` to keep track of your libraries.
+- Set up a [virtual environment](../../01-python/docs/23-virtual-environments.md) with a `requirements.txt` to keep track of your libraries.
 - Create a `development_settings.py` and a `production_settings.py` to be able to switch configurations and hide your production environment's [SECRET_KEY](https://docs.djangoproject.com/en/3.2/ref/settings/#std:setting-SECRET_KEY).
 
 If you want to generate a new secret key you can use the code below:

@@ -79,7 +79,7 @@ def view(request):
 
 ### Receiving a Form Submission
 
-When a form is submitted to a view, the data in the form is arranged into a dictionary. The `name` attributes of the input elements become the `keys` and the values the user enters into the input elements become the `values`. The view can then use the key to get the values out of the dictionary. For more about forms, check out [Templates - Forms](04%20-%20Templates.md#forms).
+When a form is submitted to a view, the data in the form is arranged into a dictionary. The `name` attributes of the input elements become the `keys` and the values the user enters into the input elements become the `values`. The view can then use the key to get the values out of the dictionary. For more about forms, check out [Templates - Forms](05-templates.md#forms).
 
 
 **myapp/templates/myapp/mytemplate.html**
@@ -206,7 +206,7 @@ def myview(request):
     return HttpResponseRedirect('http://mysite.com/')
 ```
 
-It's also best to use the [reverse](https://docs.djangoproject.com/en/3.2/ref/urlresolvers/#reverse) function to look up the url using the name rather than hard-coding it. This does the same reverse url redirect as the template: [04 Template - Reverse URL Lookup](04%20-%20Templates.md#reverse-url-lookup)
+It's also best to use the [reverse](https://docs.djangoproject.com/en/3.2/ref/urlresolvers/#reverse) function to look up the url using the name rather than hard-coding it. This does the same reverse url redirect as the template: [04 Template - Reverse URL Lookup](05-templates.md#reverse-url-lookup)
 
 ```python
 from django.http import HttpResponseRedirect

@@ -61,7 +61,7 @@ add(5) // 6
 
 ## Passing Functions as Parameters
 
-It's very common to pass a function as a parameter to another function. You can see an example of this in [element.addEventListener()](12%20-%20Events.md), [setTimeout()](Timing.md), and [windowRequestAnimationFrame()](Timing.md#request-animation-frame).
+It's very common to pass a function as a parameter to another function. You can see an example of this in [element.addEventListener()](14-events.md), [setTimeout()](22-timing.md), and [windowRequestAnimationFrame()](22-timing.md#request-animation-frame).
 
 ```javascript
 btn.addEventListener('click', function() {

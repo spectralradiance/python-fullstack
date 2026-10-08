@@ -5,7 +5,7 @@ With the uniquity of smart phones and tablets, it's imperative that your website
 
 A better approach is to have your website resize to match any screen, this is called "responsive design". You can read more about responsive design on [MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Responsive/responsive_design_building_blocks) and [w3schools](https://www.w3schools.com/css/css_rwd_intro.asp).
 
-Many [CSS frameworks](03%20-%20CSS%20Overview.md#css-frameworks) have responsiveness built-in. [Flexbox and CSS Grid](08%20-%20CSS%20Flexbox%20+%20Grid.md) also help, particularly when paired with [auto-fill and auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/).
+Many [CSS frameworks](04-css-overview.md#css-frameworks) have responsiveness built-in. [Flexbox and CSS Grid](08-css-flexbox-grid.md) also help, particularly when paired with [auto-fill and auto-fit](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/).
 
 To help you test, the major browsers have tools which let you change your browser's size to match that of phones and tablets: [firefox](https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode), [chrome](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports), and [safari](https://support.apple.com/kb/PH26266?locale=en_US). There are also various browser extensions which have additional features: [firefox](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/), [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en), [safari](http://resizesafari.com/).
 

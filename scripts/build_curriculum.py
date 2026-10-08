@@ -11,6 +11,7 @@ Outputs: curriculum/**, curriculum/manifest.json, inventory/provenance.csv
 """
 import csv
 import difflib
+import os
 import json
 import re
 import shutil
@@ -199,6 +200,48 @@ def names_in(path, people):
     return {w for w in words if w in people and w not in COMMON_WORDS}
 
 
+MD_LINK = re.compile(r"(!?)\[([^\]]*)\]\(([^)\s]+?\.md)(#[^)\s]*)?\)", re.I)
+
+
+def rewrite_links(written, index):
+    """Point relative .md links (which use the source cohort's filenames) at the merged files.
+
+    The target is resolved against the source file's location, then matched by normalized
+    doc/lab key, preferring the unit the target lived in. Unresolvable links become plain text.
+    """
+    unresolved = []
+    for dest, unit, version in written:
+        src_dir = PurePosixPath(version["path"]).parent
+
+        def fix(m):
+            bang, label, target, anchor = m.group(1), m.group(2), m.group(3), m.group(4) or ""
+            if bang or re.match(r"^[a-z]+:", target):
+                return m.group(0)
+            parts = []
+            for part in (src_dir / target.replace("%20", " ")).parts:
+                if part == "..":
+                    parts and parts.pop()
+                elif part != ".":
+                    parts.append(part)
+            target_unit = unit_of(parts[0]) if len(parts) > 1 else None
+            name = parts[-1] if parts else target
+            units = [u for u in [target_unit or unit] + UNIT_KEYS if u]
+            for u in units:
+                for kind, key in (("doc", doc_key(name, u)), ("lab", lab_key(name))):
+                    hit = index.get((kind, u, key))
+                    if hit:
+                        rel = Path(os.path.relpath(hit, dest.parent)).as_posix()
+                        return f"[{label}]({rel}{anchor})"
+            unresolved.append((dest, target))
+            return label
+
+        text = dest.read_text(encoding="utf-8")
+        new = MD_LINK.sub(fix, text)
+        if new != text:
+            dest.write_text(new, encoding="utf-8")
+    return unresolved
+
+
 def pick_solution(key, unit, solutions, cohort_order, people):
     """Newest cohort whose solutions/ has a file or top folder for the lab.
 
@@ -241,6 +284,7 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     problems, prov = [], []
+    written, index = [], {}  # md files written (for link rewriting) and (kind, unit, key) -> path
     manifest = {"source": "PDX Code Guild Python Full Stack, 13 cohorts 2017-2021",
                 "cohorts": COHORTS, "units": []}
 
@@ -267,6 +311,8 @@ def main():
             dest.mkdir(parents=True, exist_ok=True)
             text = copy_images(text, newest, dest, problems)
             (dest / f"{slug}.md").write_text(text, encoding="utf-8")
+            written.append((dest / f"{slug}.md", ukey, newest))
+            index[("doc", ukey, key)] = dest / f"{slug}.md"
             oldest = vs[0]["repo"].read(vs[0]["path"]).decode("utf-8", "replace")
             drift = similarity(oldest, text)
             cohorts = sorted({v["repo"].name for v in vs}, key=COHORTS.index)
@@ -298,6 +344,8 @@ def main():
             title = title_of(text, key.replace("_", " ").title())
             text = copy_images(text, newest, ldir, problems)
             (ldir / "README.md").write_text(text, encoding="utf-8")
+            written.append((ldir / "README.md", ukey, newest))
+            index[("lab", ukey, key)] = ldir / "README.md"
 
             oldest = vs[0]["repo"].read(vs[0]["path"]).decode("utf-8", "replace")
             drift = similarity(oldest, text)
@@ -339,6 +387,8 @@ def main():
         (udir / "README.md").write_text("\n".join(lines), encoding="utf-8")
         manifest["units"].append(unit)
 
+    unresolved = rewrite_links(written, index)
+    problems += [f"unresolved link {t} in {p.relative_to(OUT).as_posix()}" for p, t in unresolved]
     (OUT / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     top = ["# Python Full Stack Curriculum", "",
            "Merged from 13 PDX Code Guild cohorts (2017–2021). See the repository README for provenance and license.", ""]

@@ -3,7 +3,7 @@
 
 # Optional: Flask APIs
 
-Let's build a front-end to an API by sending HTTP requests to the API from our own backend. Check out the [example in the docs](../docs/01%20Flask.md#16-apis).
+Let's build a front-end to an API by sending HTTP requests to the API from our own backend. Check out the [example in the docs](../../docs/13-flask.md#16-apis).
 
 - **Version 1**: display text/graphics from the API.
 - **Version 2**: allow the user to search the API.

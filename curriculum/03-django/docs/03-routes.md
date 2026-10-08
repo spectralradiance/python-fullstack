@@ -60,7 +60,7 @@ def about(request)
 
 ## Reverse URL Lookup
 
-The `app_name` in the `urlspy` and the `name=` in each of the path are used to perform a reverse url lookup: [04 Templates - Reverse URL Lookup](04%20-%20Templates.md#reverse-url-lookup).
+The `app_name` in the `urlspy` and the `name=` in each of the path are used to perform a reverse url lookup: [04 Templates - Reverse URL Lookup](05-templates.md#reverse-url-lookup).
 
 **myapp/urls.py**
 ```python
@@ -74,5 +74,5 @@ urlpatterns = [
 
 ## Parameters in the Path
 
-You can specify a parameter in your path using `<type:var_name>`, where `type` is the data type of the parameter (e.g. `str`, `int`, etc). See the [views.md](03%20-%20Views.md#path-parameters) file.
+You can specify a parameter in your path using `<type:var_name>`, where `type` is the data type of the parameter (e.g. `str`, `int`, etc). See the [views.md](04-views.md#path-parameters) file.
 

@@ -210,7 +210,7 @@ You can bind app variables to input fields using `v-model`. If the user changes 
 
 ## Event Listeners
 
-Bind events on elements to methods using `v-on`. [list of event types](12%20-%20Events.md#list-of-events) [more info](https://vuejs.org/v2/guide/events.html)
+Bind events on elements to methods using `v-on`. [list of event types](14-events.md#list-of-events) [more info](https://vuejs.org/v2/guide/events.html)
 
 ```html
 <div id="app">

@@ -1,7 +1,7 @@
 
 # Lab 6: Random Quote
 
-Before starting, check out the doc on [APIs and AJAX](../docs/13%20-%20APIs%20and%20Ajax.md).
+Before starting, check out the doc on [APIs and AJAX](../../docs/16-apis-ajax.md).
 
 Use the [favqs.com](https://favqs.com/api/) api to show a random quote. Send a `GET` request to `https://favqs.com/api/qotd`, extract the relevant information, and display it on the page.
 

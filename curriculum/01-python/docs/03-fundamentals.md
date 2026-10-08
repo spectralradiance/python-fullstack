@@ -190,7 +190,7 @@ print(sys.argv)
 ### ASCII Art
 
 
-You can make your terminal interface a bit more fun with ASCII art. The easiest way to add a multi-line string in Python is using a [docstring](Docstrings.md). Another good idea is to put all your ASCII art in a separate module so it doesn't clutter up your main file.
+You can make your terminal interface a bit more fun with ASCII art. The easiest way to add a multi-line string in Python is using a [docstring](19-docstrings.md). Another good idea is to put all your ASCII art in a separate module so it doesn't clutter up your main file.
 
 - [Library of ASCII art](https://www.asciiart.eu/)
 - [Python module to generate ASCII art](https://pypi.org/project/art/)

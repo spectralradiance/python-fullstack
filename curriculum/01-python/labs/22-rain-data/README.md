@@ -32,7 +32,7 @@ with open('hayden_island.rain', 'r') as file:
 print(text)
 ```
 
-To parse the dates, use [datetime.strptime](../1%20Python/Datetime.md#creating-a-datetime-from-a-string-datetimestrptimes-format). This allows for easy access to the year, month, and day as `int`s. Below I've shown how to parse an example string, resulting in a [datetime](../1%20Python/Datetime.md) object. We can then access the year, month, and day on that datetime as ints. Later, if you want to print the datetime in a more human-readable format, you can use [datetime.strftime](../1%20Python/Datetime.md#creating-a-datetime-from-a-string-datetimestrptimes-format).
+To parse the dates, use [datetime.strptime](../../docs/15-datetimes.md#creating-a-datetime-from-a-string-datetimestrptimes-format). This allows for easy access to the year, month, and day as `int`s. Below I've shown how to parse an example string, resulting in a [datetime](../../docs/15-datetimes.md) object. We can then access the year, month, and day on that datetime as ints. Later, if you want to print the datetime in a more human-readable format, you can use [datetime.strftime](../../docs/15-datetimes.md#creating-a-datetime-from-a-string-datetimestrptimes-format).
 
 ```python
 from datetime import datetime
