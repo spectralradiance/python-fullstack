@@ -38,14 +38,20 @@ template repos `PythonFullStack` and `PythonFullStack2` were used as references 
 
 ## Privacy
 
-This repository contains **no student work and no student names** at this stage. Every build runs
+[`submissions/`](submissions/README.md) holds 101 curated, anonymized student solutions (about two per
+core lab). Students appear only as stable pseudonyms (`<cohort>-sNN`); names, contact details, keys and
+personal file paths are scrubbed, and personal labs (bio, portfolio), capstones and images are excluded.
+If you recognize your own work and want it removed, open an issue.
+
+Every build runs
 `scripts/sanitize.py` (removes secrets/API keys, Django `SECRET_KEY`s, personal emails and phone
 numbers, classmates' GitHub links, OS user paths, and name credits on past capstones) followed by
 `scripts/pii_scan.py`, which checks every file against a roster of everyone who ever committed to
 the source repos and blocks the build on any unreviewed match. The roster and raw clones live in
 `raw/`, which is git-ignored and never published.
 
-Anonymized, curated student submissions will be added in `submissions/` under the same gate.
+Submissions are shortlisted with `scripts/shortlist_submissions.py` (static checks only, student code
+is never executed) and published with `scripts/publish_submissions.py`, which re-runs the gate.
 
 ## Rebuilding
 

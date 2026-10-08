@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script><!--using axios to grab the api to use-->
+    <title>quote_api</title>
+    <head>
+
+    </head>
+        <div>
+            <input id="input_div" placeholder="key words">
+            <button id="search_btn">Search</button>
+        </div>
+        <div id=btn_div></div>
+        <pre id="quote_div"></pre>
+
+    <body>
+        <script>
+            let input_div = document.querySelector("#input_div")
+            let search_btn = document.querySelector("#search_btn")
+            let quote_div = document.querySelector("#quote_div")
+            let btn_div = document.querySelector("#btn_div")
+            let quote_data = null
+            let quote_array = []
+            let author_array = []
+            let search_prams =""
+            let page = 0
+            let url = 'https://favqs.com/api/quotes' //setting the string name url to the website to get data from
+            function get_quotes(){
+                axios.get(url,{
+                    headers: {
+                                    'Authorization': 'Token token="' + 'ee8e044f7ec107a6b96a8f7ff93a89f5' + '"'
+                                },
+                    params: {
+                        page: (page +1),
+                        filter: `${search_prams}`, 
+                        type: "tag",
+                    }             
+                })
+                .then(function(response){
+                    console.log(response.data)
+                    quote_data= response.data.quotes
+                    for(let i = 0; i< quote_data.length; ++i){
+                        quote_array.push(quote_data[i].body)
+                        author_array.push(quote_data[i].author)
+                        quote_div.innerHTML += `${[(i+1)+(25*page)]}: ${quote_array[i]}\n ${author_array[i]}\n`
+                    }
+                    if (page !== 0){  //creating a page back button
+                        let back_page = document.createElement("button")
+                        back_page.innerHTML = "<"
+                        btn_div.appendChild(back_page)
+                        back_page.onclick = function (){
+                            page -= 1
+                            clear_input()
+                            get_quotes()
+                        }
+                    }
+                    if (response.data.last_page === false){ //creating a next page button
+                        let next_page = document.createElement("button")
+                        next_page.innerHTML = ">"
+                        btn_div.appendChild(next_page)
+                        next_page.onclick = function (){
+                            page += 1
+                            clear_input()
+                            get_quotes()
+                            
+                        }
+                    }
+                })
+            }
+            search_btn.onclick = function(){
+                page = 0
+                search_prams = input_div.value
+                clear_input()
+                get_quotes()   
+            }
+            function clear_input (){
+                btn_div.innerHTML = ""
+                quote_div.innerHTML = `----------------${search_prams} quotes----------------\n\n`
+                author_array = []
+                quote_array = []
+                input_div.value = ""
+            }
+            //uses axios and .get to pull data from url
+            // .then(function (response) { //creating a function with  .then which waits to run the function until the data is collected from the line above
+            //     quote_data = response //setting the response to a varible so you can mess with  it in the console after the program runs so you can see what it grabbed
+            //     console.log(response) //so you can read the response in the console 
+            //     let data = response.data // setting the received data or (response) to the variable data, this is used so you can just type data in the code to follow instead of response.data everytime
+            //     let author   = data.quote.author //going into data to grab the object(dict) quote which also has an object(dict) in it called author and setting it to the variable author
+            //     let body = data.quote.body//doing the same as above but grabbing the object(dict) body instead and setting it to the variable body
+            //     quote_div.innerText = body + ' - ' + author  //mushing the two variables we grabbed together and putting it in the body of the quote_div
+            // })
+
+
+    //         function http_get(url, success) {
+    //             let xhttp = new XMLHttpRequest();
+    //             xhttp.onreadystatechange = function() {
+    //                 if (this.readyState === 1) {
+    //                     xhttp.setRequestHeader('Authorization', 'Token token="<api kep here>"')
+    //                 } else if (this.readyState === 4 && this.status === 200) {
+    //                     let data = JSON.parse(xhttp.responseText);
+    //                      success(data);
+    //                 } else if (this.readyState === 4 && this.status === 404) {
+    //             // handle 404
+    //             }
+    //         };
+    // xhttp.open("GET", url);
+    // xhttp.send();
+// }
+            
+        
+        </script>
+    </body>
+</html>

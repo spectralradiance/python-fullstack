@@ -1,3 +1,4 @@
 raw/
+staging/
 __pycache__/
 *.pyc

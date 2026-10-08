@@ -1,0 +1,916 @@
+{
+  "01-python/26-adventure": [
+    {
+      "id": "iguana-s01",
+      "cohort": "iguana",
+      "files": [
+        "Lab26_AdventureWclasses.py"
+      ]
+    },
+    {
+      "id": "raccoon-s03",
+      "cohort": "raccoon",
+      "files": [
+        "lab27_adventure.py"
+      ]
+    }
+  ],
+  "01-python/19-ari": [
+    {
+      "id": "sheep-s08",
+      "cohort": "sheep",
+      "files": [
+        "lab22-ari.py"
+      ]
+    },
+    {
+      "id": "eagle-s02",
+      "cohort": "eagle",
+      "files": [
+        "16_ari.py"
+      ]
+    }
+  ],
+  "01-python/24-atm": [
+    {
+      "id": "platypus-s04",
+      "cohort": "platypus",
+      "files": [
+        "lab25-ATM.py"
+      ]
+    },
+    {
+      "id": "winter18-s05",
+      "cohort": "winter18",
+      "files": [
+        "LAB 025 ATM V3.py"
+      ]
+    }
+  ],
+  "01-python/12-blackjack-advice": [
+    {
+      "id": "sheep-s05",
+      "cohort": "sheep",
+      "files": [
+        "lab19.py"
+      ]
+    },
+    {
+      "id": "raccoon-s03",
+      "cohort": "raccoon",
+      "files": [
+        "lab13_blackjack.py"
+      ]
+    }
+  ],
+  "01-python/21-contact-list": [
+    {
+      "id": "winter18-s14",
+      "cohort": "winter18",
+      "files": [
+        "lab23_contact_list.py"
+      ]
+    },
+    {
+      "id": "honeybadger-s01",
+      "cohort": "honeybadger",
+      "files": [
+        "contact_list.py"
+      ]
+    }
+  ],
+  "01-python/18-count-words": [
+    {
+      "id": "honeybadger-s03",
+      "cohort": "honeybadger",
+      "files": [
+        "lab21_count_words.py"
+      ]
+    },
+    {
+      "id": "eagle-s03",
+      "cohort": "eagle",
+      "files": [
+        "lab13_CountWords.py"
+      ]
+    }
+  ],
+  "01-python/13-dad-joke-api": [
+    {
+      "id": "eagle-s07",
+      "cohort": "eagle",
+      "files": [
+        "lab10_dad_joke_api.py"
+      ]
+    }
+  ],
+  "01-python/03-grading": [
+    {
+      "id": "sheep-s05",
+      "cohort": "sheep",
+      "files": [
+        "lab3.py"
+      ]
+    },
+    {
+      "id": "armadillo-s09",
+      "cohort": "armadillo",
+      "files": [
+        "lab03-grading-v1.py"
+      ]
+    }
+  ],
+  "01-python/09-guess-the-number": [
+    {
+      "id": "ocelot-s01",
+      "cohort": "ocelot",
+      "files": [
+        "12_guess_the_number.py"
+      ]
+    },
+    {
+      "id": "iguana-s01",
+      "cohort": "iguana",
+      "files": [
+        "Lab_12_Guess_the_Number_level4.py"
+      ]
+    }
+  ],
+  "01-python/02-madlib": [
+    {
+      "id": "armadillo-s15",
+      "cohort": "armadillo",
+      "files": [
+        "lab002_madlib.py"
+      ]
+    },
+    {
+      "id": "platypus-s05",
+      "cohort": "platypus",
+      "files": [
+        "Lab02.py"
+      ]
+    }
+  ],
+  "01-python/04-magic-8-ball": [
+    {
+      "id": "armadillo-s08",
+      "cohort": "armadillo",
+      "files": [
+        "lab04_magic_8_ball.py"
+      ]
+    },
+    {
+      "id": "winter18-s09",
+      "cohort": "winter18",
+      "files": [
+        "Lab004_Magic8-ball_v2.py"
+      ]
+    }
+  ],
+  "01-python/08-make-change": [
+    {
+      "id": "honeybadger-s05",
+      "cohort": "honeybadger",
+      "files": [
+        "Lab8_Make_Change.py"
+      ]
+    },
+    {
+      "id": "iguana-s03",
+      "cohort": "iguana",
+      "files": [
+        "lab08_Make_Change.py"
+      ]
+    }
+  ],
+  "01-python/17-number-to-phrase": [
+    {
+      "id": "honeybadger-s01",
+      "cohort": "honeybadger",
+      "files": [
+        "number_to_phrase.py"
+      ]
+    },
+    {
+      "id": "eagle-s02",
+      "cohort": "eagle",
+      "files": [
+        "mob_number_ to_phrase.py"
+      ]
+    }
+  ],
+  "01-python/11-peaks-and-valleys": [
+    {
+      "id": "winter18-s14",
+      "cohort": "winter18",
+      "files": [
+        "lab18_peaks_and_valleys.py"
+      ]
+    },
+    {
+      "id": "eagle-s07",
+      "cohort": "eagle",
+      "files": [
+        "lab07_peaks_and_valleys_v1.py"
+      ]
+    }
+  ],
+  "01-python/14-pick6": [
+    {
+      "id": "armadillo-s05",
+      "cohort": "armadillo",
+      "files": [
+        "pick6.py"
+      ]
+    },
+    {
+      "id": "raccoon-s01",
+      "cohort": "raccoon",
+      "files": [
+        "lab16_pick6.py"
+      ]
+    }
+  ],
+  "01-python/23-quote-api": [
+    {
+      "id": "armadillo-s02",
+      "cohort": "armadillo",
+      "files": [
+        "lab20-quotes_api.py"
+      ]
+    },
+    {
+      "id": "armadillo-s09",
+      "cohort": "armadillo",
+      "files": [
+        "lab20-quotes-v2.py"
+      ]
+    }
+  ],
+  "01-python/22-rain-data": [
+    {
+      "id": "armadillo-s02",
+      "cohort": "armadillo",
+      "files": [
+        "lab22_test-rain_data-v2.py"
+      ]
+    },
+    {
+      "id": "sheep-s05",
+      "cohort": "sheep",
+      "files": [
+        "lab24.py"
+      ]
+    }
+  ],
+  "01-python/05-random-emoticon-generator": [
+    {
+      "id": "armadillo-s18",
+      "cohort": "armadillo",
+      "files": [
+        "lab05-random_emoticon_generator-v1.py"
+      ]
+    },
+    {
+      "id": "armadillo-s13",
+      "cohort": "armadillo",
+      "files": [
+        "lab05-random-emoticon-generator.py"
+      ]
+    }
+  ],
+  "01-python/06-random-password": [
+    {
+      "id": "platypus-s03",
+      "cohort": "platypus",
+      "files": [
+        "lab_06.py"
+      ]
+    },
+    {
+      "id": "honeybadger-s01",
+      "cohort": "honeybadger",
+      "files": [
+        "random_password_generator.py"
+      ]
+    }
+  ],
+  "01-python/07-rock-paper-scissors": [
+    {
+      "id": "iguana-s05",
+      "cohort": "iguana",
+      "files": [
+        "lab07-rock_paper_scissors.py"
+      ]
+    },
+    {
+      "id": "winter18-s10",
+      "cohort": "winter18",
+      "files": [
+        "lab07_rock_paper_scissors.py"
+      ]
+    }
+  ],
+  "01-python/15-rot13": [
+    {
+      "id": "armadillo-s01",
+      "cohort": "armadillo",
+      "files": [
+        "lab15_rot_cipher_v2.py"
+      ]
+    },
+    {
+      "id": "armadillo-s11",
+      "cohort": "armadillo",
+      "files": [
+        "lab15rot13_v1.py"
+      ]
+    }
+  ],
+  "01-python/20-searching-and-sorting": [
+    {
+      "id": "eagle-s02",
+      "cohort": "eagle",
+      "files": [
+        "16_Searching and Sorting.py"
+      ]
+    }
+  ],
+  "01-python/10-simple-calculator": [
+    {
+      "id": "raccoon-s05",
+      "cohort": "raccoon",
+      "files": [
+        "lab10-simpleCalculator.py"
+      ]
+    },
+    {
+      "id": "honeybadger-s07",
+      "cohort": "honeybadger",
+      "files": [
+        "lab11_simple_calculator.py"
+      ]
+    }
+  ],
+  "01-python/25-trivia-api": [
+    {
+      "id": "eagle-s03",
+      "cohort": "eagle",
+      "files": [
+        "lab19_TriviaApi.py"
+      ]
+    },
+    {
+      "id": "eagle-s08",
+      "cohort": "eagle",
+      "files": [
+        "19_trivia_api_lab.py"
+      ]
+    }
+  ],
+  "01-python/01-turtle": [
+    {
+      "id": "emu-s02",
+      "cohort": "emu",
+      "files": [
+        "lab01_v1_turtle.py"
+      ]
+    },
+    {
+      "id": "ocelot-s01",
+      "cohort": "ocelot",
+      "files": [
+        "01_turtle.py"
+      ]
+    }
+  ],
+  "01-python/16-unit-converter": [
+    {
+      "id": "raccoon-s09",
+      "cohort": "raccoon",
+      "files": [
+        "lab09_unitconverter.py"
+      ]
+    },
+    {
+      "id": "iguana-s03",
+      "cohort": "iguana",
+      "files": [
+        "lab09_Unit_Converter.py"
+      ]
+    }
+  ],
+  "02-flask-html-css/06-burrito-order-form": [
+    {
+      "id": "winter18-s12",
+      "cohort": "winter18",
+      "files": [
+        "Lab5-Burrito-Order-Form.html"
+      ]
+    },
+    {
+      "id": "honeybadger-s01",
+      "cohort": "honeybadger",
+      "files": [
+        "burrito_order_form.css"
+      ]
+    }
+  ],
+  "02-flask-html-css/05-company-home": [
+    {
+      "id": "raccoon-s09",
+      "cohort": "raccoon",
+      "files": [
+        "lab03_company.html"
+      ]
+    },
+    {
+      "id": "winter18-s05",
+      "cohort": "winter18",
+      "files": [
+        "LAB_003_COMPANY_HOME.html"
+      ]
+    }
+  ],
+  "02-flask-html-css/04-flask-todo": [
+    {
+      "id": "armadillo-s02",
+      "cohort": "armadillo",
+      "files": [
+        "app.py",
+        "database.json",
+        "template/index.html"
+      ]
+    },
+    {
+      "id": "raccoon-s05",
+      "cohort": "raccoon",
+      "files": [
+        "app.py",
+        "database.json",
+        "templates/index.html"
+      ]
+    }
+  ],
+  "03-django/06-blog": [
+    {
+      "id": "raccoon-s05",
+      "cohort": "raccoon",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "templates/__init__.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "emu-s01",
+      "cohort": "emu",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/03-contact-list": [
+    {
+      "id": "emu-s02",
+      "cohort": "emu",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "raccoon-s05",
+      "cohort": "raccoon",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/02-django-redo": [
+    {
+      "id": "eagle-s06",
+      "cohort": "eagle",
+      "files": [
+        "lab1_app/__init__.py",
+        "lab1_app/admin.py",
+        "lab1_app/apps.py",
+        "lab1_app/models.py",
+        "lab1_app/templates/lab1_app/index.html",
+        "lab1_app/tests.py",
+        "lab1_app/urls.py",
+        "lab1_app/views.py",
+        "manage.py"
+      ]
+    }
+  ],
+  "03-django/08-madlib": [
+    {
+      "id": "winter18-s06",
+      "cohort": "winter18",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/07-pokedex": [
+    {
+      "id": "armadillo-s07",
+      "cohort": "armadillo",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "management/commands/load_pokemon.py",
+        "management/commands/pokemon.json",
+        "models.py",
+        "templates/test.html",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "armadillo-s18",
+      "cohort": "armadillo",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "management/commands/load_pokemon.py",
+        "management/commands/make_pokemon_names_capitalized.py",
+        "management/commands/pokemon.json",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/01-polls": [
+    {
+      "id": "winter18-s09",
+      "cohort": "winter18",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "iguana-s05",
+      "cohort": "iguana",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/04-todo": [
+    {
+      "id": "winter18-s14",
+      "cohort": "winter18",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "sheep-s03",
+      "cohort": "sheep",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls_in_app.py",
+        "views.py"
+      ]
+    }
+  ],
+  "03-django/05-url-shortener": [
+    {
+      "id": "raccoon-s06",
+      "cohort": "raccoon",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    },
+    {
+      "id": "winter18-s06",
+      "cohort": "winter18",
+      "files": [
+        "__init__.py",
+        "admin.py",
+        "apps.py",
+        "models.py",
+        "tests.py",
+        "urls.py",
+        "views.py"
+      ]
+    }
+  ],
+  "04-javascript/13-any-api": [
+    {
+      "id": "eagle-s08",
+      "cohort": "eagle",
+      "files": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "winter18-s08",
+      "cohort": "winter18",
+      "files": [
+        "index.html"
+      ]
+    }
+  ],
+  "04-javascript/08-calculator": [
+    {
+      "id": "winter18-s01",
+      "cohort": "winter18",
+      "files": [
+        "calculator.html"
+      ]
+    },
+    {
+      "id": "winter18-s13",
+      "cohort": "winter18",
+      "files": [
+        "index.html",
+        "java.js",
+        "style.css"
+      ]
+    }
+  ],
+  "04-javascript/09-cat-api": [
+    {
+      "id": "armadillo-s09",
+      "cohort": "armadillo",
+      "files": [
+        "cat_api.html"
+      ]
+    },
+    {
+      "id": "armadillo-s12",
+      "cohort": "armadillo",
+      "files": [
+        "lab09_vue_cat_api_v2.html"
+      ]
+    }
+  ],
+  "04-javascript/02-javascript-redo": [
+    {
+      "id": "eagle-s06",
+      "cohort": "eagle",
+      "files": [
+        "lab1_v2_JavaScript_redo.html"
+      ]
+    },
+    {
+      "id": "eagle-s08",
+      "cohort": "eagle",
+      "files": [
+        "main.html"
+      ]
+    }
+  ],
+  "04-javascript/17-mini": [
+    {
+      "id": "armadillo-s12",
+      "cohort": "armadillo",
+      "files": [
+        "minilab.html"
+      ]
+    },
+    {
+      "id": "armadillo-s17",
+      "cohort": "armadillo",
+      "files": [
+        "Mob_minilab.html"
+      ]
+    }
+  ],
+  "04-javascript/01-pick-3": [
+    {
+      "id": "raccoon-s08",
+      "cohort": "raccoon",
+      "files": [
+        "lab1_pick3.html"
+      ]
+    },
+    {
+      "id": "armadillo-s04",
+      "cohort": "armadillo",
+      "files": [
+        "num_phrase.html",
+        "password.html"
+      ]
+    }
+  ],
+  "04-javascript/14-pokedex": [
+    {
+      "id": "eagle-s07",
+      "cohort": "eagle",
+      "files": [
+        "index.html"
+      ]
+    },
+    {
+      "id": "armadillo-s21",
+      "cohort": "armadillo",
+      "files": [
+        "detail.html",
+        "index.html"
+      ]
+    }
+  ],
+  "04-javascript/10-quiz": [
+    {
+      "id": "armadillo-s12",
+      "cohort": "armadillo",
+      "files": [
+        "mob_quiz.html"
+      ]
+    },
+    {
+      "id": "raccoon-s05",
+      "cohort": "raccoon",
+      "files": [
+        "quiz.html"
+      ]
+    }
+  ],
+  "04-javascript/15-quote-api": [
+    {
+      "id": "honeybadger-s01",
+      "cohort": "honeybadger",
+      "files": [
+        "quote_api_example.html"
+      ]
+    },
+    {
+      "id": "iguana-s03",
+      "cohort": "iguana",
+      "files": [
+        "lab09_quote_api.html"
+      ]
+    }
+  ],
+  "04-javascript/07-random-redirector": [
+    {
+      "id": "armadillo-s02",
+      "cohort": "armadillo",
+      "files": [
+        "random_redirector.html"
+      ]
+    },
+    {
+      "id": "winter18-s09",
+      "cohort": "winter18",
+      "files": [
+        "Lab05_RandomRedirector_v2.html"
+      ]
+    }
+  ],
+  "04-javascript/03-timing": [
+    {
+      "id": "armadillo-s18",
+      "cohort": "armadillo",
+      "files": [
+        "example_timing.html"
+      ]
+    },
+    {
+      "id": "ocelot-s04",
+      "cohort": "ocelot",
+      "files": [
+        "Timingstuff.html"
+      ]
+    }
+  ],
+  "04-javascript/04-todo": [
+    {
+      "id": "winter18-s09",
+      "cohort": "winter18",
+      "files": [
+        "Lab04_ToDoList.html"
+      ]
+    },
+    {
+      "id": "raccoon-s06",
+      "cohort": "raccoon",
+      "files": [
+        "index.html"
+      ]
+    }
+  ],
+  "04-javascript/16-vue-quiz": [
+    {
+      "id": "armadillo-s16",
+      "cohort": "armadillo",
+      "files": [
+        "MOB_vue_quiz.html"
+      ]
+    }
+  ],
+  "04-javascript/06-vue-redo": [
+    {
+      "id": "armadillo-s12",
+      "cohort": "armadillo",
+      "files": [
+        "lab08_vue_redo.html"
+      ]
+    },
+    {
+      "id": "eagle-s08",
+      "cohort": "eagle",
+      "files": [
+        "main.html"
+      ]
+    }
+  ],
+  "04-javascript/05-vue-todo": [
+    {
+      "id": "armadillo-s18",
+      "cohort": "armadillo",
+      "files": [
+        "example_vue_todo.html"
+      ]
+    },
+    {
+      "id": "eagle-s08",
+      "cohort": "eagle",
+      "files": [
+        "index.html"
+      ]
+    }
+  ],
+  "04-javascript/11-weather-api": [
+    {
+      "id": "armadillo-s12",
+      "cohort": "armadillo",
+      "files": [
+        "lab07_weather_api.html"
+      ]
+    },
+    {
+      "id": "armadillo-s09",
+      "cohort": "armadillo",
+      "files": [
+        "lab07-weather_api.html"
+      ]
+    }
+  ]
+}
