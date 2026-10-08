@@ -1,0 +1,103 @@
+# Python
+
+## Docs
+
+- [Resources](docs/01-resources.md)
+- [Overview](docs/02-python-overview.md)
+- [Fundamentals](docs/03-fundamentals.md)
+- [Exception Handling](docs/04-exceptions-testing.md)
+- [Numbers and Arithmetic](docs/05-numbers-arithmetic.md)
+- [Booleans, Comparisons, and Conditionals](docs/06-booleans-comparisons-conditionals.md)
+- [Modules and Packages](docs/07-modules-packages.md)
+- [The Random Module](docs/08-random.md)
+- [Loops](docs/09-loops.md)
+- [Strings](docs/10-strings.md)
+- [Lists and Tuples](docs/11-lists-tuples.md)
+- [Functions](docs/12-functions.md)
+- [Dictionaries](docs/13-dictionaries.md)
+- [Regular Expressions in Python](docs/14-regular-expressions-in-python.md)
+- [Datetime](docs/15-datetimes.md)
+- [Exception Handling](docs/16-exceptions.md)
+- [Classes](docs/17-classes.md)
+- [Requests](docs/18-requests.md)
+- [Docstrings](docs/19-docstrings.md)
+- [File IO](docs/20-file-io.md)
+- [Python Quick Reference](docs/21-quick-reference.md)
+- [Sets](docs/22-sets.md)
+- [VirtualEnv](docs/23-virtual-environments.md)
+
+## Archived Docs
+
+- [Running Python via the CLI](docs/arc-01-executing-python.md)
+- [Variables and I/O](docs/arc-02-variables-io.md)
+- [Using Functions](docs/arc-03-using-functions.md)
+- [Defining Functions](docs/arc-04-defining-functions.md)
+- [Additional Resources](docs/arc-05-additional-resources.md)
+- [Classes: Dunder Methods](docs/arc-06-classes-dunder-methods.md)
+- [Comprehensions](docs/arc-07-comprehensions.md)
+- [Ergonomics](docs/arc-08-ergonomics.md)
+- [Python Frameworks and Libraries](docs/arc-09-frameworks-libraries.md)
+- [Functional Programming](docs/arc-10-functional-programming.md)
+- [List of Terms in Python](docs/arc-11-list-of-terms.md)
+- [Object-Oriented Programming](docs/arc-12-object-oriented-programming.md)
+- [Tuples](docs/arc-13-tuples.md)
+
+## Labs
+
+- [Turtle](labs/01-turtle/README.md)
+- [Mad Libs](labs/02-madlib/README.md)
+- [Grading](labs/03-grading/README.md)
+- [Magic 8-Ball](labs/04-magic-8-ball/README.md)
+- [Random Emoticon Generator](labs/05-random-emoticon-generator/README.md)
+- [Random Password Generator](labs/06-random-password/README.md)
+- [Rock Paper Scissors](labs/07-rock-paper-scissors/README.md)
+- [Make Change](labs/08-make-change/README.md)
+- [Guess the Number](labs/09-guess-the-number/README.md)
+- [Simple Calculator](labs/10-simple-calculator/README.md)
+- [Peaks and Valleys](labs/11-peaks-and-valleys/README.md)
+- [Blackjack Advice](labs/12-blackjack-advice/README.md)
+- [Dad Joke API](labs/13-dad-joke-api/README.md)
+- [Pick6](labs/14-pick6/README.md)
+- [Rot Cipher](labs/15-rot13/README.md)
+- [Unit Converter](labs/16-unit-converter/README.md)
+- [Number to Phrase](labs/17-number-to-phrase/README.md)
+- [Count Words](labs/18-count-words/README.md)
+- [Automated Readability Index](labs/19-ari/README.md)
+- [Searching and Sorting](labs/20-searching-and-sorting/README.md)
+- [Contact List](labs/21-contact-list/README.md)
+- [Rain Data](labs/22-rain-data/README.md)
+- [Quotes API](labs/23-quote-api/README.md)
+- [ATM](labs/24-atm/README.md)
+- [Trivia API](labs/25-trivia-api/README.md)
+- [Adventure](labs/26-adventure/README.md)
+
+## Mob Labs
+
+- [Bogo Sort](labs/mob-01-bogosort/README.md)
+- [Credit Card Validation](labs/mob-02-credit-card-validation/README.md)
+- [Any API](labs/mob-03-any-api/README.md)
+- [Currency Exchange](labs/mob-04-currency-exchange/README.md)
+- [Hangman](labs/mob-05-hangman/README.md)
+- [Jackalope Simulator](labs/mob-06-jackalope/README.md)
+- [LCR Simulator](labs/mob-07-lcr/README.md)
+
+## Optional Labs
+
+- [Average Numbers](labs/opt-01-average-numbers/README.md)
+- [Image Manipulation](labs/opt-02-image-manipulation/README.md)
+- [Palindrome and Anagram](labs/opt-03-palindrome-anagram/README.md)
+- [Computer Science - Data Structures](labs/opt-04-compsci-data-structures/README.md)
+- [Sock Sorter](labs/opt-05-sock-sorter/README.md)
+- [Road Trip](labs/opt-06-road-trip/README.md)
+- [Computer Science - Algorithms](labs/opt-07-compsci-algorithms/README.md)
+- [Crime Data](labs/opt-08-crime-data/README.md)
+- [Arbitrary Precision Arithmetic](labs/opt-09-arbitrary-precision-arithmetic/README.md)
+- [Version 3 - Bubble Sort (optional)](labs/opt-10-comsci-extra/README.md)
+- [Tree](labs/opt-11-tree/README.md)
+
+## Archived Labs
+
+- [Hello!](labs/arc-01-hello-world/README.md)
+- [Practice Problems](labs/arc-02-practice/README.md)
+- [Practice Problems 2](labs/arc-03-practice-problems/README.md)
+- [Practice: Blackjack](labs/arc-04-blackjack/README.md)

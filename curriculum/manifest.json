@@ -1,0 +1,5022 @@
+{
+  "source": "PDX Code Guild Python Full Stack, 13 cohorts 2017-2021",
+  "cohorts": [
+    "20171003-FullStack-Day",
+    "20180116-FullStack-Day",
+    "class_ocelot",
+    "class_platypus",
+    "class_iguana",
+    "class_sheep",
+    "class_emu",
+    "class_honeybadger",
+    "class_raccoon",
+    "class_mountain_goat",
+    "class_armadillo",
+    "class_bumble_bee",
+    "class_eagle"
+  ],
+  "units": [
+    {
+      "key": "general",
+      "slug": "00-general",
+      "title": "General",
+      "docs": [
+        {
+          "slug": "01-resources",
+          "title": "General Resources",
+          "tier": "current",
+          "path": "00-general/docs/01-resources.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-class-structure",
+          "title": "Class Structure",
+          "tier": "current",
+          "path": "00-general/docs/02-class-structure.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "03-course-overview",
+          "title": "Class Structure",
+          "tier": "current",
+          "path": "00-general/docs/03-course-overview.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "04-setup",
+          "title": "Setup",
+          "tier": "current",
+          "path": "00-general/docs/04-setup.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.12
+        },
+        {
+          "slug": "05-ergonomics",
+          "title": "Ergonomics",
+          "tier": "current",
+          "path": "00-general/docs/05-ergonomics.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "06-git",
+          "title": "Git",
+          "tier": "current",
+          "path": "00-general/docs/06-git.md",
+          "cohorts": [
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.52
+        },
+        {
+          "slug": "07-markdown",
+          "title": "Markdown",
+          "tier": "current",
+          "path": "00-general/docs/07-markdown.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.93
+        },
+        {
+          "slug": "08-regular-expressions",
+          "title": "Regular Expressions",
+          "tier": "current",
+          "path": "00-general/docs/08-regular-expressions.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.5
+        },
+        {
+          "slug": "09-software",
+          "title": "Software",
+          "tier": "current",
+          "path": "00-general/docs/09-software.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "10-programming-languages",
+          "title": "Software",
+          "tier": "current",
+          "path": "00-general/docs/10-programming-languages.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "11-programming-overview",
+          "title": "Programming",
+          "tier": "current",
+          "path": "00-general/docs/11-programming-overview.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.17
+        },
+        {
+          "slug": "12-json-csv-xml",
+          "title": "JSON, CSV, & XML",
+          "tier": "current",
+          "path": "00-general/docs/12-json-csv-xml.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "13-networking",
+          "title": "Networking",
+          "tier": "current",
+          "path": "00-general/docs/13-networking.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "14-http-requests-apis",
+          "title": "HTTP Requests & APIs",
+          "tier": "current",
+          "path": "00-general/docs/14-http-requests-apis.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "15-professional-programming",
+          "title": "Programming",
+          "tier": "current",
+          "path": "00-general/docs/15-professional-programming.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-01-expectations",
+          "title": "Course Expectations",
+          "tier": "archived",
+          "path": "00-general/docs/arc-01-expectations.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-02-objectives-activities",
+          "title": "Objectives & Overview",
+          "tier": "archived",
+          "path": "00-general/docs/arc-02-objectives-activities.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.16
+        },
+        {
+          "slug": "arc-03-curriculum-overview",
+          "title": "Curriculum Overview",
+          "tier": "archived",
+          "path": "00-general/docs/arc-03-curriculum-overview.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-04-roles-responsibilities",
+          "title": "Roles & Responsibilities",
+          "tier": "archived",
+          "path": "00-general/docs/arc-04-roles-responsibilities.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-05-logistics",
+          "title": "Logistics",
+          "tier": "archived",
+          "path": "00-general/docs/arc-05-logistics.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.94
+        },
+        {
+          "slug": "arc-06-advice",
+          "title": "Advice",
+          "tier": "archived",
+          "path": "00-general/docs/arc-06-advice.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-07-code-of-conduct",
+          "title": "Code of Conduct",
+          "tier": "archived",
+          "path": "00-general/docs/arc-07-code-of-conduct.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-08-post-course",
+          "title": "Post-Course Work",
+          "tier": "archived",
+          "path": "00-general/docs/arc-08-post-course.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-09-cli",
+          "title": "CLI - Command Line Interfact",
+          "tier": "archived",
+          "path": "00-general/docs/arc-09-cli.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.99
+        },
+        {
+          "slug": "arc-10-version-control",
+          "title": "Version Control & Git",
+          "tier": "archived",
+          "path": "00-general/docs/arc-10-version-control.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu"
+          ],
+          "source": "class_emu",
+          "drift": 0.88
+        },
+        {
+          "slug": "arc-11-atom",
+          "title": "Atom",
+          "tier": "archived",
+          "path": "00-general/docs/arc-11-atom.md",
+          "cohorts": [
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-12-general-resources",
+          "title": "Database Tools",
+          "tier": "archived",
+          "path": "00-general/docs/arc-12-general-resources.md",
+          "cohorts": [
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.11
+        },
+        {
+          "slug": "arc-13-learning-resources",
+          "title": "Learning Resources",
+          "tier": "archived",
+          "path": "00-general/docs/arc-13-learning-resources.md",
+          "cohorts": [
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-14-libraries-frameworks",
+          "title": "Libraries and Frameworks",
+          "tier": "archived",
+          "path": "00-general/docs/arc-14-libraries-frameworks.md",
+          "cohorts": [
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.94
+        },
+        {
+          "slug": "arc-15-software-development-life-cycle",
+          "title": "The Software Development Life-Cycle (SDLC)",
+          "tier": "archived",
+          "path": "00-general/docs/arc-15-software-development-life-cycle.md",
+          "cohorts": [
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-16-internet",
+          "title": "[The Internet](https://hackster.imgix.net/uploads/attachments/284333/theinternetcoveruteWFNvvRs.png?auto=compress&w=900&h=675&fit=min&fm=jpg)",
+          "tier": "archived",
+          "path": "00-general/docs/arc-16-internet.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.86
+        }
+      ],
+      "labs": []
+    },
+    {
+      "key": "python",
+      "slug": "01-python",
+      "title": "Python",
+      "docs": [
+        {
+          "slug": "01-resources",
+          "title": "Resources",
+          "tier": "current",
+          "path": "01-python/docs/01-resources.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-python-overview",
+          "title": "Overview",
+          "tier": "current",
+          "path": "01-python/docs/02-python-overview.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.31
+        },
+        {
+          "slug": "03-fundamentals",
+          "title": "Fundamentals",
+          "tier": "current",
+          "path": "01-python/docs/03-fundamentals.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.63
+        },
+        {
+          "slug": "04-exceptions-testing",
+          "title": "Exception Handling",
+          "tier": "current",
+          "path": "01-python/docs/04-exceptions-testing.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "05-numbers-arithmetic",
+          "title": "Numbers and Arithmetic",
+          "tier": "current",
+          "path": "01-python/docs/05-numbers-arithmetic.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.42
+        },
+        {
+          "slug": "06-booleans-comparisons-conditionals",
+          "title": "Booleans, Comparisons, and Conditionals",
+          "tier": "current",
+          "path": "01-python/docs/06-booleans-comparisons-conditionals.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.3
+        },
+        {
+          "slug": "07-modules-packages",
+          "title": "Modules and Packages",
+          "tier": "current",
+          "path": "01-python/docs/07-modules-packages.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.6
+        },
+        {
+          "slug": "08-random",
+          "title": "The Random Module",
+          "tier": "current",
+          "path": "01-python/docs/08-random.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "09-loops",
+          "title": "Loops",
+          "tier": "current",
+          "path": "01-python/docs/09-loops.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.81
+        },
+        {
+          "slug": "10-strings",
+          "title": "Strings",
+          "tier": "current",
+          "path": "01-python/docs/10-strings.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.37
+        },
+        {
+          "slug": "11-lists-tuples",
+          "title": "Lists and Tuples",
+          "tier": "current",
+          "path": "01-python/docs/11-lists-tuples.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.38
+        },
+        {
+          "slug": "12-functions",
+          "title": "Functions",
+          "tier": "current",
+          "path": "01-python/docs/12-functions.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "13-dictionaries",
+          "title": "Dictionaries",
+          "tier": "current",
+          "path": "01-python/docs/13-dictionaries.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.62
+        },
+        {
+          "slug": "14-regular-expressions-in-python",
+          "title": "Regular Expressions in Python",
+          "tier": "current",
+          "path": "01-python/docs/14-regular-expressions-in-python.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.52
+        },
+        {
+          "slug": "15-datetimes",
+          "title": "Datetime",
+          "tier": "current",
+          "path": "01-python/docs/15-datetimes.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "16-exceptions",
+          "title": "Exception Handling",
+          "tier": "current",
+          "path": "01-python/docs/16-exceptions.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.41
+        },
+        {
+          "slug": "17-classes",
+          "title": "Classes",
+          "tier": "current",
+          "path": "01-python/docs/17-classes.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.48
+        },
+        {
+          "slug": "18-requests",
+          "title": "Requests",
+          "tier": "current",
+          "path": "01-python/docs/18-requests.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.99
+        },
+        {
+          "slug": "19-docstrings",
+          "title": "Docstrings",
+          "tier": "current",
+          "path": "01-python/docs/19-docstrings.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.68
+        },
+        {
+          "slug": "20-file-io",
+          "title": "File IO",
+          "tier": "current",
+          "path": "01-python/docs/20-file-io.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.87
+        },
+        {
+          "slug": "21-quick-reference",
+          "title": "Python Quick Reference",
+          "tier": "current",
+          "path": "01-python/docs/21-quick-reference.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "22-sets",
+          "title": "Sets",
+          "tier": "current",
+          "path": "01-python/docs/22-sets.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.87
+        },
+        {
+          "slug": "23-virtual-environments",
+          "title": "VirtualEnv",
+          "tier": "current",
+          "path": "01-python/docs/23-virtual-environments.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.7
+        },
+        {
+          "slug": "arc-01-executing-python",
+          "title": "Running Python via the CLI",
+          "tier": "archived",
+          "path": "01-python/docs/arc-01-executing-python.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.97
+        },
+        {
+          "slug": "arc-02-variables-io",
+          "title": "Variables and I/O",
+          "tier": "archived",
+          "path": "01-python/docs/arc-02-variables-io.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-03-using-functions",
+          "title": "Using Functions",
+          "tier": "archived",
+          "path": "01-python/docs/arc-03-using-functions.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.9
+        },
+        {
+          "slug": "arc-04-defining-functions",
+          "title": "Defining Functions",
+          "tier": "archived",
+          "path": "01-python/docs/arc-04-defining-functions.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.98
+        },
+        {
+          "slug": "arc-05-additional-resources",
+          "title": "Additional Resources",
+          "tier": "archived",
+          "path": "01-python/docs/arc-05-additional-resources.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.0
+        },
+        {
+          "slug": "arc-06-classes-dunder-methods",
+          "title": "Classes: Dunder Methods",
+          "tier": "archived",
+          "path": "01-python/docs/arc-06-classes-dunder-methods.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-07-comprehensions",
+          "title": "Comprehensions",
+          "tier": "archived",
+          "path": "01-python/docs/arc-07-comprehensions.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-08-ergonomics",
+          "title": "Ergonomics",
+          "tier": "archived",
+          "path": "01-python/docs/arc-08-ergonomics.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-09-frameworks-libraries",
+          "title": "Python Frameworks and Libraries",
+          "tier": "archived",
+          "path": "01-python/docs/arc-09-frameworks-libraries.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-10-functional-programming",
+          "title": "Functional Programming",
+          "tier": "archived",
+          "path": "01-python/docs/arc-10-functional-programming.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-11-list-of-terms",
+          "title": "List of Terms in Python",
+          "tier": "archived",
+          "path": "01-python/docs/arc-11-list-of-terms.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-12-object-oriented-programming",
+          "title": "Object-Oriented Programming",
+          "tier": "archived",
+          "path": "01-python/docs/arc-12-object-oriented-programming.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-13-tuples",
+          "title": "Tuples",
+          "tier": "archived",
+          "path": "01-python/docs/arc-13-tuples.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        }
+      ],
+      "labs": [
+        {
+          "slug": "01-turtle",
+          "key": "turtle",
+          "title": "Turtle",
+          "tier": "core",
+          "path": "01-python/labs/01-turtle/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab01_turtle.py"
+            ]
+          }
+        },
+        {
+          "slug": "02-madlib",
+          "key": "madlib",
+          "title": "Mad Libs",
+          "tier": "core",
+          "path": "01-python/labs/02-madlib/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.9,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab02_mad_lib.py"
+            ]
+          }
+        },
+        {
+          "slug": "03-grading",
+          "key": "grading",
+          "title": "Grading",
+          "tier": "core",
+          "path": "01-python/labs/03-grading/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.53,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab03_grading.py"
+            ]
+          }
+        },
+        {
+          "slug": "04-magic-8-ball",
+          "key": "magic_8_ball",
+          "title": "Magic 8-Ball",
+          "tier": "core",
+          "path": "01-python/labs/04-magic-8-ball/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.94,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/lab04-magic_8_ball.py"
+            ]
+          }
+        },
+        {
+          "slug": "05-random-emoticon-generator",
+          "key": "random_emoticon_generator",
+          "title": "Random Emoticon Generator",
+          "tier": "core",
+          "path": "01-python/labs/05-random-emoticon-generator/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.72,
+          "reference_similarity": 0.72,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob01_random_emoticon_generator.py"
+            ]
+          }
+        },
+        {
+          "slug": "06-random-password",
+          "key": "random_password",
+          "title": "Random Password Generator",
+          "tier": "core",
+          "path": "01-python/labs/06-random-password/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.51,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab06_random_password_generator.py"
+            ]
+          }
+        },
+        {
+          "slug": "07-rock-paper-scissors",
+          "key": "rock_paper_scissors",
+          "title": "Rock Paper Scissors",
+          "tier": "core",
+          "path": "01-python/labs/07-rock-paper-scissors/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.72,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab05_rock_paper_scissors.py"
+            ]
+          }
+        },
+        {
+          "slug": "08-make-change",
+          "key": "make_change",
+          "title": "Make Change",
+          "tier": "core",
+          "path": "01-python/labs/08-make-change/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.57,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab04_make_change.py"
+            ]
+          }
+        },
+        {
+          "slug": "09-guess-the-number",
+          "key": "guess_the_number",
+          "title": "Guess the Number",
+          "tier": "core",
+          "path": "01-python/labs/09-guess-the-number/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob02_guess_the_number.py"
+            ]
+          }
+        },
+        {
+          "slug": "10-simple-calculator",
+          "key": "simple_calculator",
+          "title": "Simple Calculator",
+          "tier": "core",
+          "path": "01-python/labs/10-simple-calculator/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.43,
+          "reference_similarity": 0.57,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab11-simple_calculator.py"
+            ]
+          }
+        },
+        {
+          "slug": "11-peaks-and-valleys",
+          "key": "peaks_and_valleys",
+          "title": "Peaks and Valleys",
+          "tier": "core",
+          "path": "01-python/labs/11-peaks-and-valleys/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.92,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab07_peaks_and_valleys.py"
+            ]
+          }
+        },
+        {
+          "slug": "12-blackjack-advice",
+          "key": "blackjack_advice",
+          "title": "Blackjack Advice",
+          "tier": "core",
+          "path": "01-python/labs/12-blackjack-advice/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.69,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab09_blackjack_advice.py"
+            ]
+          }
+        },
+        {
+          "slug": "13-dad-joke-api",
+          "key": "dad_joke_api",
+          "title": "Dad Joke API",
+          "tier": "core",
+          "path": "01-python/labs/13-dad-joke-api/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab10_dad_joke_api.py"
+            ]
+          }
+        },
+        {
+          "slug": "14-pick6",
+          "key": "pick6",
+          "title": "Pick6",
+          "tier": "core",
+          "path": "01-python/labs/14-pick6/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.99,
+          "reference_similarity": 0.97,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab08_pick6.py"
+            ]
+          }
+        },
+        {
+          "slug": "15-rot13",
+          "key": "rot13",
+          "title": "Rot Cipher",
+          "tier": "core",
+          "path": "01-python/labs/15-rot13/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.65,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab11_rot_cipher.py"
+            ]
+          }
+        },
+        {
+          "slug": "16-unit-converter",
+          "key": "unit_converter",
+          "title": "Unit Converter",
+          "tier": "core",
+          "path": "01-python/labs/16-unit-converter/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab12_unit_converter.py"
+            ]
+          }
+        },
+        {
+          "slug": "17-number-to-phrase",
+          "key": "number_to_phrase",
+          "title": "Number to Phrase",
+          "tier": "core",
+          "path": "01-python/labs/17-number-to-phrase/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.96,
+          "reference_similarity": 0.97,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob05_number_to_phrase.py"
+            ]
+          }
+        },
+        {
+          "slug": "18-count-words",
+          "key": "count_words",
+          "title": "Count Words",
+          "tier": "core",
+          "path": "01-python/labs/18-count-words/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.73,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab13_count_words.py"
+            ]
+          }
+        },
+        {
+          "slug": "19-ari",
+          "key": "ari",
+          "title": "Automated Readability Index",
+          "tier": "core",
+          "path": "01-python/labs/19-ari/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.93,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab14_ari.py"
+            ]
+          }
+        },
+        {
+          "slug": "20-searching-and-sorting",
+          "key": "searching_and_sorting",
+          "title": "Searching and Sorting",
+          "tier": "core",
+          "path": "01-python/labs/20-searching-and-sorting/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab16_searching_and_sorting.py"
+            ]
+          }
+        },
+        {
+          "slug": "21-contact-list",
+          "key": "contact_list",
+          "title": "Contact List",
+          "tier": "core",
+          "path": "01-python/labs/21-contact-list/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.15,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab17_contact_list.py"
+            ]
+          }
+        },
+        {
+          "slug": "22-rain-data",
+          "key": "rain_data",
+          "title": "Rain Data",
+          "tier": "core",
+          "path": "01-python/labs/22-rain-data/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.55,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab15_rain_data.py"
+            ]
+          }
+        },
+        {
+          "slug": "23-quote-api",
+          "key": "quote_api",
+          "title": "Quotes API",
+          "tier": "core",
+          "path": "01-python/labs/23-quote-api/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.88,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/lab17-quotes_api.py"
+            ]
+          }
+        },
+        {
+          "slug": "24-atm",
+          "key": "atm",
+          "title": "ATM",
+          "tier": "core",
+          "path": "01-python/labs/24-atm/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.51,
+          "reference_similarity": 0.51,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob09_atm.py"
+            ]
+          }
+        },
+        {
+          "slug": "25-trivia-api",
+          "key": "trivia_api",
+          "title": "Trivia API",
+          "tier": "core",
+          "path": "01-python/labs/25-trivia-api/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab19_trivia_api.py"
+            ]
+          }
+        },
+        {
+          "slug": "26-adventure",
+          "key": "adventure",
+          "title": "Adventure",
+          "tier": "core",
+          "path": "01-python/labs/26-adventure/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.8,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab20_adventure.py",
+              "solution/lab20_adventure_classes.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-01-bogosort",
+          "key": "bogosort",
+          "title": "Bogo Sort",
+          "tier": "mob",
+          "path": "01-python/labs/mob-01-bogosort/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob04_bogosort.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-02-credit-card-validation",
+          "key": "credit_card_validation",
+          "title": "Credit Card Validation",
+          "tier": "mob",
+          "path": "01-python/labs/mob-02-credit-card-validation/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob03_credit_card_validation.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-03-any-api",
+          "key": "any_api",
+          "title": "Any API",
+          "tier": "mob",
+          "path": "01-python/labs/mob-03-any-api/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.45,
+          "reference_similarity": 0.15,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/mob-any_api.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-04-currency-exchange",
+          "key": "currency_exchange",
+          "title": "Currency Exchange",
+          "tier": "mob",
+          "path": "01-python/labs/mob-04-currency-exchange/README.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.1,
+          "reference_similarity": null,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/currency_exchange.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-05-hangman",
+          "key": "hangman",
+          "title": "Hangman",
+          "tier": "mob",
+          "path": "01-python/labs/mob-05-hangman/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.52,
+          "reference_similarity": 0.52,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/mob-hangman.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-06-jackalope",
+          "key": "jackalope",
+          "title": "Jackalope Simulator",
+          "tier": "mob",
+          "path": "01-python/labs/mob-06-jackalope/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.99,
+          "reference_similarity": 0.99,
+          "solution": {
+            "source": "20180116-FullStack-Day",
+            "files": [
+              "solution/mob-jackalope.py"
+            ]
+          }
+        },
+        {
+          "slug": "mob-07-lcr",
+          "key": "lcr",
+          "title": "LCR Simulator",
+          "tier": "mob",
+          "path": "01-python/labs/mob-07-lcr/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.8,
+          "reference_similarity": 0.8,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/mob06_lcr.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-01-average-numbers",
+          "key": "average_numbers",
+          "title": "Average Numbers",
+          "tier": "optional",
+          "path": "01-python/labs/opt-01-average-numbers/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.72,
+          "reference_similarity": 0.72,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab10-average_numbers.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-02-image-manipulation",
+          "key": "image_manipulation",
+          "title": "Image Manipulation",
+          "tier": "optional",
+          "path": "01-python/labs/opt-02-image-manipulation/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.93,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab16-image_manipulation.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-03-palindrome-anagram",
+          "key": "palindrome_anagram",
+          "title": "Palindrome and Anagram",
+          "tier": "optional",
+          "path": "01-python/labs/opt-03-palindrome-anagram/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab17-palindrome_anagram.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-04-compsci-data-structures",
+          "key": "compsci_data_structures",
+          "title": "Computer Science - Data Structures",
+          "tier": "optional",
+          "path": "01-python/labs/opt-04-compsci-data-structures/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.59,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "opt-05-sock-sorter",
+          "key": "sock_sorter",
+          "title": "Sock Sorter",
+          "tier": "optional",
+          "path": "01-python/labs/opt-05-sock-sorter/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.99,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab28-socks.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-06-road-trip",
+          "key": "road_trip",
+          "title": "Road Trip",
+          "tier": "optional",
+          "path": "01-python/labs/opt-06-road-trip/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab29-road_trip.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-07-compsci-algorithms",
+          "key": "compsci_algorithms",
+          "title": "Computer Science - Algorithms",
+          "tier": "optional",
+          "path": "01-python/labs/opt-07-compsci-algorithms/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.98,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "opt-08-crime-data",
+          "key": "crime_data",
+          "title": "Crime Data",
+          "tier": "optional",
+          "path": "01-python/labs/opt-08-crime-data/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.65,
+          "reference_similarity": 0.98,
+          "solution": {
+            "source": "class_ocelot",
+            "files": [
+              "solution/lab24-crime_data.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-09-arbitrary-precision-arithmetic",
+          "key": "arbitrary_precision_arithmetic",
+          "title": "Arbitrary Precision Arithmetic",
+          "tier": "optional",
+          "path": "01-python/labs/opt-09-arbitrary-precision-arithmetic/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/arbitrary_precision_arithmetic.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-10-comsci-extra",
+          "key": "comsci_extra",
+          "title": "Version 3 - Bubble Sort (optional)",
+          "tier": "optional",
+          "path": "01-python/labs/opt-10-comsci-extra/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "opt-11-tree",
+          "key": "tree",
+          "title": "Tree",
+          "tier": "optional",
+          "path": "01-python/labs/opt-11-tree/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "arc-01-hello-world",
+          "key": "hello_world",
+          "title": "Hello!",
+          "tier": "archived",
+          "path": "01-python/labs/arc-01-hello-world/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab02-hello.py"
+            ]
+          }
+        },
+        {
+          "slug": "arc-02-practice",
+          "key": "practice",
+          "title": "Practice Problems",
+          "tier": "archived",
+          "path": "01-python/labs/arc-02-practice/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "class_mountain_goat",
+            "files": [
+              "solution/practice5-more_practice.py"
+            ]
+          }
+        },
+        {
+          "slug": "arc-03-practice-problems",
+          "key": "practice_problems",
+          "title": "Practice Problems 2",
+          "tier": "archived",
+          "path": "01-python/labs/arc-03-practice-problems/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab14-practice_problems.py"
+            ]
+          }
+        },
+        {
+          "slug": "arc-04-blackjack",
+          "key": "blackjack",
+          "title": "Practice: Blackjack",
+          "tier": "archived",
+          "path": "01-python/labs/arc-04-blackjack/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab09_blackjack_advice.py"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "flask_html_css",
+      "slug": "02-flask-html-css",
+      "title": "Flask + HTML + CSS",
+      "docs": [
+        {
+          "slug": "01-resources",
+          "title": "Resources",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/01-resources.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-html-overview",
+          "title": "HTML Overview",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/02-html-overview.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.76
+        },
+        {
+          "slug": "03-html-elements",
+          "title": "HTML Elements",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/03-html-elements.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.79
+        },
+        {
+          "slug": "04-css-overview",
+          "title": "CSS Overview",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/04-css-overview.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.62
+        },
+        {
+          "slug": "05-css-selectors",
+          "title": "CSS Selectors",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/05-css-selectors.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.87
+        },
+        {
+          "slug": "06-css-properties",
+          "title": "CSS Properties",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/06-css-properties.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.07
+        },
+        {
+          "slug": "07-css-box-model",
+          "title": "CSS Box Model",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/07-css-box-model.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.98
+        },
+        {
+          "slug": "08-css-flexbox-grid",
+          "title": "CSS Flexbox + Grid",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/08-css-flexbox-grid.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.96
+        },
+        {
+          "slug": "09-css-responsive-design",
+          "title": "CSS Responsive Design",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/09-css-responsive-design.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "10-css-bootstrap",
+          "title": "Bootstrap & Materialize",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/10-css-bootstrap.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.26
+        },
+        {
+          "slug": "11-css-animations",
+          "title": "CSS Animations",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/11-css-animations.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.97
+        },
+        {
+          "slug": "12-html-forms",
+          "title": "HTML Forms",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/12-html-forms.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.58
+        },
+        {
+          "slug": "13-flask",
+          "title": "Flask",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/13-flask.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.61
+        },
+        {
+          "slug": "14-flask-forms",
+          "title": "Flask Forms",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/14-flask-forms.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "15-html-css-templates",
+          "title": "HTML+CSS Templates",
+          "tier": "current",
+          "path": "02-flask-html-css/docs/15-html-css-templates.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-01-css-position",
+          "title": "CSS Position",
+          "tier": "archived",
+          "path": "02-flask-html-css/docs/arc-01-css-position.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-02-additional-resources",
+          "title": "Additional Resources",
+          "tier": "archived",
+          "path": "02-flask-html-css/docs/arc-02-additional-resources.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger"
+          ],
+          "source": "class_honeybadger",
+          "drift": null
+        }
+      ],
+      "labs": [
+        {
+          "slug": "01-bio",
+          "key": "bio",
+          "title": "Bio",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/01-bio/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.66,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/lab01_bio.html"
+            ]
+          }
+        },
+        {
+          "slug": "02-flask-intro",
+          "key": "flask_intro",
+          "title": "Lab 01",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/02-flask-intro/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "03-blog",
+          "key": "blog",
+          "title": "Blog",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/03-blog/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.51,
+          "reference_similarity": 0.1,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/about.html",
+              "solution/blog.html",
+              "solution/demo_input.html",
+              "solution/style.css"
+            ]
+          }
+        },
+        {
+          "slug": "04-flask-todo",
+          "key": "flask_todo",
+          "title": "Lab 2 Flask TODO",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/04-flask-todo/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.91,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "05-company-home",
+          "key": "company_home",
+          "title": "Company Home",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/05-company-home/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.7,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/company_home.css",
+              "solution/company_home.html"
+            ]
+          }
+        },
+        {
+          "slug": "06-burrito-order-form",
+          "key": "burrito_order_form",
+          "title": "Burrito Order Form",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/06-burrito-order-form/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.43,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "07-flask-redo",
+          "key": "flask_redo",
+          "title": "Intro to Flask",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/07-flask-redo/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "08-personal-portfolio",
+          "key": "personal_portfolio",
+          "title": "Personal Portfolio",
+          "tier": "core",
+          "path": "02-flask-html-css/labs/08-personal-portfolio/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.25,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "mob-01-rock-paper-scissors",
+          "key": "rock_paper_scissors",
+          "title": "Rock, Paper, Scissors in Flask",
+          "tier": "mob",
+          "path": "02-flask-html-css/labs/mob-01-rock-paper-scissors/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 0.24,
+          "solution": null
+        },
+        {
+          "slug": "opt-01-flask-apis",
+          "key": "flask_apis",
+          "title": "Flask APIs",
+          "tier": "optional",
+          "path": "02-flask-html-css/labs/opt-01-flask-apis/README.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.99,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "opt-02-animations",
+          "key": "animations",
+          "title": "Exercise: Recreate animations in CSS",
+          "tier": "optional",
+          "path": "02-flask-html-css/labs/opt-02-animations/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.99,
+          "reference_similarity": 0.99,
+          "solution": null
+        }
+      ]
+    },
+    {
+      "key": "django",
+      "slug": "03-django",
+      "title": "Django",
+      "docs": [
+        {
+          "slug": "01-resources",
+          "title": "Django Resources",
+          "tier": "current",
+          "path": "03-django/docs/01-resources.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-django-overview",
+          "title": "Django Overview",
+          "tier": "current",
+          "path": "03-django/docs/02-django-overview.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.4
+        },
+        {
+          "slug": "03-routes",
+          "title": "Routes",
+          "tier": "current",
+          "path": "03-django/docs/03-routes.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.33
+        },
+        {
+          "slug": "04-views",
+          "title": "Views",
+          "tier": "current",
+          "path": "03-django/docs/04-views.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.58
+        },
+        {
+          "slug": "05-templates",
+          "title": "Templates",
+          "tier": "current",
+          "path": "03-django/docs/05-templates.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.58
+        },
+        {
+          "slug": "06-forms",
+          "title": "Forms",
+          "tier": "current",
+          "path": "03-django/docs/06-forms.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.54
+        },
+        {
+          "slug": "07-models",
+          "title": "Models",
+          "tier": "current",
+          "path": "03-django/docs/07-models.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.4
+        },
+        {
+          "slug": "08-user-management",
+          "title": "User Management",
+          "tier": "current",
+          "path": "03-django/docs/08-user-management.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.39
+        },
+        {
+          "slug": "09-media-files",
+          "title": "Media Files",
+          "tier": "current",
+          "path": "03-django/docs/09-media-files.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.92
+        },
+        {
+          "slug": "10-uploading-files",
+          "title": "Media Files",
+          "tier": "current",
+          "path": "03-django/docs/10-uploading-files.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "11-advanced-topics",
+          "title": "Advanced Django",
+          "tier": "current",
+          "path": "03-django/docs/11-advanced-topics.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.99
+        },
+        {
+          "slug": "12-class-based-views",
+          "title": "Class-Based Views",
+          "tier": "current",
+          "path": "03-django/docs/12-class-based-views.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.85
+        },
+        {
+          "slug": "13-databases",
+          "title": "Raw Queries vs Query Builders vs ORM",
+          "tier": "current",
+          "path": "03-django/docs/13-databases.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.9
+        },
+        {
+          "slug": "14-deployment",
+          "title": "Deployment",
+          "tier": "current",
+          "path": "03-django/docs/14-deployment.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.73
+        },
+        {
+          "slug": "15-django-quickstart",
+          "title": "Django Quickstart",
+          "tier": "current",
+          "path": "03-django/docs/15-django-quickstart.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.21
+        },
+        {
+          "slug": "16-email",
+          "title": "Email",
+          "tier": "current",
+          "path": "03-django/docs/16-email.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "17-syntax-reference",
+          "title": "ORM",
+          "tier": "current",
+          "path": "03-django/docs/17-syntax-reference.md",
+          "cohorts": [
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-01-advanced-topics-incomplete",
+          "title": "Advanced Django",
+          "tier": "archived",
+          "path": "03-django/docs/arc-01-advanced-topics-incomplete.md",
+          "cohorts": [
+            "class_ocelot"
+          ],
+          "source": "class_ocelot",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-02-angularjs",
+          "title": "AngularJS",
+          "tier": "archived",
+          "path": "03-django/docs/arc-02-angularjs.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-03-custom-management-commands",
+          "title": "Custom Management Commands",
+          "tier": "archived",
+          "path": "03-django/docs/arc-03-custom-management-commands.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-04-django-quickstart-2",
+          "title": "Django Quickstart 2",
+          "tier": "archived",
+          "path": "03-django/docs/arc-04-django-quickstart-2.md",
+          "cohorts": [
+            "class_honeybadger"
+          ],
+          "source": "class_honeybadger",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-05-google-maps",
+          "title": "Google Maps",
+          "tier": "archived",
+          "path": "03-django/docs/arc-05-google-maps.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        }
+      ],
+      "labs": [
+        {
+          "slug": "01-polls",
+          "key": "polls",
+          "title": "Polls",
+          "tier": "core",
+          "path": "03-django/labs/01-polls/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.73,
+          "reference_similarity": 0.73,
+          "solution": null
+        },
+        {
+          "slug": "02-django-redo",
+          "key": "django_redo",
+          "title": "Django Redo",
+          "tier": "core",
+          "path": "03-django/labs/02-django-redo/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "03-contact-list",
+          "key": "contact_list",
+          "title": "Contacts",
+          "tier": "core",
+          "path": "03-django/labs/03-contact-list/README.md",
+          "cohorts": [
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.54,
+          "reference_similarity": 0.17,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/contactsapp/__init__.py",
+              "solution/contactsapp/admin.py",
+              "solution/contactsapp/apps.py",
+              "solution/contactsapp/models.py",
+              "solution/contactsapp/templates/contactsapp/base.html",
+              "solution/contactsapp/templates/contactsapp/edit.html",
+              "solution/contactsapp/templates/contactsapp/index.html",
+              "solution/contactsapp/tests.py",
+              "solution/contactsapp/urls.py",
+              "solution/contactsapp/views.py",
+              "solution/contactsappforms/__init__.py",
+              "solution/contactsappforms/admin.py",
+              "solution/contactsappforms/apps.py",
+              "solution/contactsappforms/forms.py",
+              "solution/contactsappforms/models.py",
+              "solution/contactsappforms/templates/contactsappforms/create.html",
+              "solution/contactsappforms/templates/contactsappforms/edit.html",
+              "solution/contactsappforms/tests.py",
+              "solution/contactsappforms/urls.py",
+              "solution/contactsappforms/views.py",
+              "solution/contactsproj/__init__.py",
+              "solution/contactsproj/asgi.py",
+              "solution/contactsproj/settings.py",
+              "solution/contactsproj/urls.py",
+              "solution/contactsproj/wsgi.py",
+              "solution/manage.py",
+              "solution/users/__init__.py",
+              "solution/users/admin.py",
+              "solution/users/apps.py",
+              "solution/users/models.py",
+              "solution/users/templates/users/login.html",
+              "solution/users/templates/users/profile.html",
+              "solution/users/templates/users/register.html",
+              "solution/users/tests.py",
+              "solution/users/urls.py",
+              "solution/users/views.py"
+            ]
+          }
+        },
+        {
+          "slug": "04-todo",
+          "key": "todo",
+          "title": "Todo",
+          "tier": "core",
+          "path": "03-django/labs/04-todo/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.19,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/manage.py",
+              "solution/todoapp/__init__.py",
+              "solution/todoapp/admin.py",
+              "solution/todoapp/apps.py",
+              "solution/todoapp/models.py",
+              "solution/todoapp/static/todoapp/index.css",
+              "solution/todoapp/static/todoapp/index.js",
+              "solution/todoapp/templates/todoapp/base.html",
+              "solution/todoapp/templates/todoapp/index.html",
+              "solution/todoapp/tests.py",
+              "solution/todoapp/urls.py",
+              "solution/todoapp/views.py",
+              "solution/todoproj/__init__.py",
+              "solution/todoproj/asgi.py",
+              "solution/todoproj/settings.py",
+              "solution/todoproj/urls.py",
+              "solution/todoproj/wsgi.py",
+              "solution/users/__init__.py",
+              "solution/users/admin.py",
+              "solution/users/apps.py",
+              "solution/users/models.py",
+              "solution/users/templates/users/login.html",
+              "solution/users/templates/users/register.html",
+              "solution/users/tests.py",
+              "solution/users/urls.py",
+              "solution/users/views.py"
+            ]
+          }
+        },
+        {
+          "slug": "05-url-shortener",
+          "key": "url_shortener",
+          "title": "URL Shortener",
+          "tier": "core",
+          "path": "03-django/labs/05-url-shortener/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.59,
+          "reference_similarity": 0.6,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/manage.py",
+              "solution/shortenerapp/__init__.py",
+              "solution/shortenerapp/admin.py",
+              "solution/shortenerapp/apps.py",
+              "solution/shortenerapp/models.py",
+              "solution/shortenerapp/templates/shortenerapp/index.html",
+              "solution/shortenerapp/tests.py",
+              "solution/shortenerapp/urls.py",
+              "solution/shortenerapp/views.py",
+              "solution/shortenerproj/__init__.py",
+              "solution/shortenerproj/asgi.py",
+              "solution/shortenerproj/settings.py",
+              "solution/shortenerproj/urls.py",
+              "solution/shortenerproj/wsgi.py"
+            ]
+          }
+        },
+        {
+          "slug": "06-blog",
+          "key": "blog",
+          "title": "Blog",
+          "tier": "core",
+          "path": "03-django/labs/06-blog/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "class_mountain_goat",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.22,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/blogapp/__init__.py",
+              "solution/blogapp/admin.py",
+              "solution/blogapp/apps.py",
+              "solution/blogapp/models.py",
+              "solution/blogapp/templates/blogapp/base.html",
+              "solution/blogapp/templates/blogapp/detail.html",
+              "solution/blogapp/templates/blogapp/index.html",
+              "solution/blogapp/tests.py",
+              "solution/blogapp/urls.py",
+              "solution/blogapp/views.py",
+              "solution/blogproj/__init__.py",
+              "solution/blogproj/asgi.py",
+              "solution/blogproj/settings.py",
+              "solution/blogproj/urls.py",
+              "solution/blogproj/wsgi.py",
+              "solution/manage.py",
+              "solution/users/__init__.py",
+              "solution/users/admin.py",
+              "solution/users/apps.py",
+              "solution/users/models.py",
+              "solution/users/templates/users/login.html",
+              "solution/users/templates/users/register.html",
+              "solution/users/tests.py",
+              "solution/users/urls.py",
+              "solution/users/views.py"
+            ]
+          }
+        },
+        {
+          "slug": "07-pokedex",
+          "key": "pokedex",
+          "title": "Pokedex",
+          "tier": "core",
+          "path": "03-django/labs/07-pokedex/README.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.85,
+          "reference_similarity": 0.5,
+          "solution": null
+        },
+        {
+          "slug": "08-madlib",
+          "key": "madlib",
+          "title": "MadLib",
+          "tier": "core",
+          "path": "03-django/labs/08-madlib/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.31,
+          "reference_similarity": 0.14,
+          "solution": {
+            "source": "class_eagle",
+            "files": [
+              "solution/madlibapp/__init__.py",
+              "solution/madlibapp/admin.py",
+              "solution/madlibapp/apps.py",
+              "solution/madlibapp/models.py",
+              "solution/madlibapp/static/madlibapp/index.css",
+              "solution/madlibapp/templates/madlibapp/index.html",
+              "solution/madlibapp/tests.py",
+              "solution/madlibapp/urls.py",
+              "solution/madlibapp/views.py",
+              "solution/madlibproj/__init__.py",
+              "solution/madlibproj/asgi.py",
+              "solution/madlibproj/settings.py",
+              "solution/madlibproj/urls.py",
+              "solution/madlibproj/wsgi.py",
+              "solution/manage.py"
+            ]
+          }
+        },
+        {
+          "slug": "opt-01-library",
+          "key": "library",
+          "title": "Library",
+          "tier": "optional",
+          "path": "03-django/labs/opt-01-library/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.51,
+          "reference_similarity": 0.51,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/README.md",
+              "solution/library/__init__.py",
+              "solution/library/asgi.py",
+              "solution/library/settings.py",
+              "solution/library/urls.py",
+              "solution/library/wsgi.py",
+              "solution/mainapp/__init__.py",
+              "solution/mainapp/admin.py",
+              "solution/mainapp/apps.py",
+              "solution/mainapp/models.py",
+              "solution/mainapp/templates/mainapp/index.html",
+              "solution/mainapp/tests.py",
+              "solution/mainapp/urls.py",
+              "solution/mainapp/views.py",
+              "solution/manage.py",
+              "solution/toast.html"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "javascript",
+      "slug": "04-javascript",
+      "title": "JavaScript",
+      "docs": [
+        {
+          "slug": "01-resources",
+          "title": "Resources",
+          "tier": "current",
+          "path": "04-javascript/docs/01-resources.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-javascript-overview",
+          "title": "Overview",
+          "tier": "current",
+          "path": "04-javascript/docs/02-javascript-overview.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.46
+        },
+        {
+          "slug": "03-javascript-fundamentals",
+          "title": "Fundamentals",
+          "tier": "current",
+          "path": "04-javascript/docs/03-javascript-fundamentals.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.62
+        },
+        {
+          "slug": "04-numbers-arithmetic",
+          "title": "Numbers and Arithmetic",
+          "tier": "current",
+          "path": "04-javascript/docs/04-numbers-arithmetic.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.55
+        },
+        {
+          "slug": "05-booleans-comparisons-conditionals",
+          "title": "Booleans, Comparisons, and Conditionals",
+          "tier": "current",
+          "path": "04-javascript/docs/05-booleans-comparisons-conditionals.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.81
+        },
+        {
+          "slug": "06-strings",
+          "title": "Strings",
+          "tier": "current",
+          "path": "04-javascript/docs/06-strings.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.24
+        },
+        {
+          "slug": "07-objects",
+          "title": "Objects",
+          "tier": "current",
+          "path": "04-javascript/docs/07-objects.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.51
+        },
+        {
+          "slug": "08-loops",
+          "title": "Loops",
+          "tier": "current",
+          "path": "04-javascript/docs/08-loops.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "09-arrays",
+          "title": "Arrays",
+          "tier": "current",
+          "path": "04-javascript/docs/09-arrays.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "10-functions",
+          "title": "Functions",
+          "tier": "current",
+          "path": "04-javascript/docs/10-functions.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.43
+        },
+        {
+          "slug": "11-classes",
+          "title": "Classes",
+          "tier": "current",
+          "path": "04-javascript/docs/11-classes.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.7
+        },
+        {
+          "slug": "12-dom-manipulation",
+          "title": "DOM Manipulation",
+          "tier": "current",
+          "path": "04-javascript/docs/12-dom-manipulation.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.59
+        },
+        {
+          "slug": "13-editing-html",
+          "title": "Editing HTML",
+          "tier": "current",
+          "path": "04-javascript/docs/13-editing-html.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "14-events",
+          "title": "Events",
+          "tier": "current",
+          "path": "04-javascript/docs/14-events.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.53
+        },
+        {
+          "slug": "15-vue",
+          "title": "Vue",
+          "tier": "current",
+          "path": "04-javascript/docs/15-vue.md",
+          "cohorts": [
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.66
+        },
+        {
+          "slug": "16-apis-ajax",
+          "title": "AJAX",
+          "tier": "current",
+          "path": "04-javascript/docs/16-apis-ajax.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.43
+        },
+        {
+          "slug": "17-canvas-drawing",
+          "title": "Canvas Drawing",
+          "tier": "current",
+          "path": "04-javascript/docs/17-canvas-drawing.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.82
+        },
+        {
+          "slug": "18-html-css-js-templates",
+          "title": "HTML+CSS+JS Templates",
+          "tier": "current",
+          "path": "04-javascript/docs/18-html-css-js-templates.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "19-jquery",
+          "title": "jQuery",
+          "tier": "current",
+          "path": "04-javascript/docs/19-jquery.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.84
+        },
+        {
+          "slug": "20-python-vs-javascript",
+          "title": "Python and JavaScript",
+          "tier": "current",
+          "path": "04-javascript/docs/20-python-vs-javascript.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.93
+        },
+        {
+          "slug": "21-regex-form-validation",
+          "title": "Form Validation",
+          "tier": "current",
+          "path": "04-javascript/docs/21-regex-form-validation.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.9
+        },
+        {
+          "slug": "22-timing",
+          "title": "Timing Events",
+          "tier": "current",
+          "path": "04-javascript/docs/22-timing.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.95
+        },
+        {
+          "slug": "23-vue-vs-vanilla",
+          "title": "Vanilla JS vs Vue",
+          "tier": "current",
+          "path": "04-javascript/docs/23-vue-vs-vanilla.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-01-arrays-loops",
+          "title": "Arrays and Loops",
+          "tier": "archived",
+          "path": "04-javascript/docs/arc-01-arrays-loops.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-02-form-validation",
+          "title": "Form Validation",
+          "tier": "archived",
+          "path": "04-javascript/docs/arc-02-form-validation.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-03-regular-expressions",
+          "title": "Regular Expressions",
+          "tier": "archived",
+          "path": "04-javascript/docs/arc-03-regular-expressions.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-04-web-frameworks",
+          "title": "Public APIs",
+          "tier": "archived",
+          "path": "04-javascript/docs/arc-04-web-frameworks.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        }
+      ],
+      "labs": [
+        {
+          "slug": "01-pick-3",
+          "key": "pick_3",
+          "title": "3: Pick 3",
+          "tier": "core",
+          "path": "04-javascript/labs/01-pick-3/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.26,
+          "reference_similarity": 0.77,
+          "solution": null
+        },
+        {
+          "slug": "02-javascript-redo",
+          "key": "javascript_redo",
+          "title": "JavaScript Redo",
+          "tier": "core",
+          "path": "04-javascript/labs/02-javascript-redo/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "03-timing",
+          "key": "timing",
+          "title": "Simple Digital Clock",
+          "tier": "core",
+          "path": "04-javascript/labs/03-timing/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "04-todo",
+          "key": "todo",
+          "title": "Todo List",
+          "tier": "core",
+          "path": "04-javascript/labs/04-todo/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.74,
+          "reference_similarity": 0.18,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab04-todo.html"
+            ]
+          }
+        },
+        {
+          "slug": "05-vue-todo",
+          "key": "vue_todo",
+          "title": "Vue Todo",
+          "tier": "core",
+          "path": "04-javascript/labs/05-vue-todo/README.md",
+          "cohorts": [
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.21,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "06-vue-redo",
+          "key": "vue_redo",
+          "title": "Vue Redo",
+          "tier": "core",
+          "path": "04-javascript/labs/06-vue-redo/README.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.19,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "07-random-redirector",
+          "key": "random_redirector",
+          "title": "Random Redirector",
+          "tier": "core",
+          "path": "04-javascript/labs/07-random-redirector/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab05-random_redirector.html"
+            ]
+          }
+        },
+        {
+          "slug": "08-calculator",
+          "key": "calculator",
+          "title": "Calculator",
+          "tier": "core",
+          "path": "04-javascript/labs/08-calculator/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.72,
+          "reference_similarity": 0.73,
+          "solution": null
+        },
+        {
+          "slug": "09-cat-api",
+          "key": "cat_api",
+          "title": "Cat API w/ Vue",
+          "tier": "core",
+          "path": "04-javascript/labs/09-cat-api/README.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/cat_api.html"
+            ]
+          }
+        },
+        {
+          "slug": "10-quiz",
+          "key": "quiz",
+          "title": "Quiz",
+          "tier": "core",
+          "path": "04-javascript/labs/10-quiz/README.md",
+          "cohorts": [
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "11-weather-api",
+          "key": "weather_api",
+          "title": "Weather API",
+          "tier": "core",
+          "path": "04-javascript/labs/11-weather-api/README.md",
+          "cohorts": [
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "12-vue-cats",
+          "key": "vue_cats",
+          "title": "Cat API w/ Vue",
+          "tier": "core",
+          "path": "04-javascript/labs/12-vue-cats/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "13-any-api",
+          "key": "any_api",
+          "title": "Any API",
+          "tier": "core",
+          "path": "04-javascript/labs/13-any-api/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.18,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "14-pokedex",
+          "key": "pokedex",
+          "title": "Pokedex",
+          "tier": "core",
+          "path": "04-javascript/labs/14-pokedex/README.md",
+          "cohorts": [
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "15-quote-api",
+          "key": "quote_api",
+          "title": "Random Quote",
+          "tier": "core",
+          "path": "04-javascript/labs/15-quote-api/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.28,
+          "reference_similarity": 0.31,
+          "solution": null
+        },
+        {
+          "slug": "16-vue-quiz",
+          "key": "vue_quiz",
+          "title": "Quiz",
+          "tier": "core",
+          "path": "04-javascript/labs/16-vue-quiz/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "17-mini",
+          "key": "mini",
+          "title": "Minilab",
+          "tier": "core",
+          "path": "04-javascript/labs/17-mini/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "18-practice",
+          "key": "practice",
+          "title": "JavaScript Practice Problems",
+          "tier": "core",
+          "path": "04-javascript/labs/18-practice/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "mob-01-guess-the-number",
+          "key": "guess_the_number",
+          "title": "Vue - Guess the Number",
+          "tier": "mob",
+          "path": "04-javascript/labs/mob-01-guess-the-number/README.md",
+          "cohorts": [
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 0.3,
+          "solution": {
+            "source": "class_bumble_bee",
+            "files": [
+              "solution/guess_the_number_vue.html",
+              "solution/guess_the_number_vue.js"
+            ]
+          }
+        },
+        {
+          "slug": "opt-01-hackertyper",
+          "key": "hackertyper",
+          "title": "Hacker Typer",
+          "tier": "optional",
+          "path": "04-javascript/labs/opt-01-hackertyper/README.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": null
+        },
+        {
+          "slug": "opt-02-bouncing-ball",
+          "key": "bouncing_ball",
+          "title": "Bouncing Ball",
+          "tier": "optional",
+          "path": "04-javascript/labs/opt-02-bouncing-ball/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.9,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab07-bouncing_ball.html"
+            ]
+          }
+        },
+        {
+          "slug": "opt-03-form-validation",
+          "key": "form_validation",
+          "title": "Form Validation",
+          "tier": "optional",
+          "path": "04-javascript/labs/opt-03-form-validation/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 1.0,
+          "reference_similarity": 1.0,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab11-form_validation.html"
+            ]
+          }
+        },
+        {
+          "slug": "opt-04-clock",
+          "key": "clock",
+          "title": "Clock",
+          "tier": "optional",
+          "path": "04-javascript/labs/opt-04-clock/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_ocelot",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_armadillo"
+          ],
+          "source": "class_armadillo",
+          "drift": 0.99,
+          "reference_similarity": 0.99,
+          "solution": {
+            "source": "class_armadillo",
+            "files": [
+              "solution/lab06-clock.html"
+            ]
+          }
+        },
+        {
+          "slug": "arc-01-redo-3",
+          "key": "redo_3",
+          "title": "Labs 4-6",
+          "tier": "archived",
+          "path": "04-javascript/labs/arc-01-redo-3/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        },
+        {
+          "slug": "arc-02-user-api",
+          "key": "user_api",
+          "title": "User API",
+          "tier": "archived",
+          "path": "04-javascript/labs/arc-02-user-api/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/lab12-user_api.html"
+            ]
+          }
+        },
+        {
+          "slug": "arc-03-pong",
+          "key": "pong",
+          "title": "Pong",
+          "tier": "archived",
+          "path": "04-javascript/labs/arc-03-pong/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": {
+            "source": "20171003-FullStack-Day",
+            "files": [
+              "solution/pong.html"
+            ]
+          }
+        },
+        {
+          "slug": "arc-04-weather",
+          "key": "weather",
+          "title": "Current Weather",
+          "tier": "archived",
+          "path": "04-javascript/labs/arc-04-weather/README.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0,
+          "reference_similarity": null,
+          "solution": null
+        }
+      ]
+    },
+    {
+      "key": "capstone",
+      "slug": "05-capstone",
+      "title": "Capstone",
+      "docs": [
+        {
+          "slug": "01-apis-libraries",
+          "title": "Apis and Libraries",
+          "tier": "current",
+          "path": "05-capstone/docs/01-apis-libraries.md",
+          "cohorts": [
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 1.0
+        },
+        {
+          "slug": "02-capstone-ideas",
+          "title": "Capstone Ideas",
+          "tier": "current",
+          "path": "05-capstone/docs/02-capstone-ideas.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.98
+        },
+        {
+          "slug": "03-capstone-proposal",
+          "title": "Capstone Proposal",
+          "tier": "current",
+          "path": "05-capstone/docs/03-capstone-proposal.md",
+          "cohorts": [
+            "20171003-FullStack-Day",
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon",
+            "class_mountain_goat",
+            "class_armadillo",
+            "class_bumble_bee",
+            "class_eagle"
+          ],
+          "source": "class_eagle",
+          "drift": 0.7
+        },
+        {
+          "slug": "arc-01-capstone-presentations",
+          "title": "Capstone Presentations",
+          "tier": "archived",
+          "path": "05-capstone/docs/arc-01-capstone-presentations.md",
+          "cohorts": [
+            "20180116-FullStack-Day"
+          ],
+          "source": "20180116-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-02-deployment",
+          "title": "Deployment",
+          "tier": "archived",
+          "path": "05-capstone/docs/arc-02-deployment.md",
+          "cohorts": [
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_emu",
+            "class_honeybadger",
+            "class_raccoon"
+          ],
+          "source": "class_raccoon",
+          "drift": 0.17
+        },
+        {
+          "slug": "arc-03-ideas-from-past-capstones",
+          "title": "Ideas From Past Capstones",
+          "tier": "archived",
+          "path": "05-capstone/docs/arc-03-ideas-from-past-capstones.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-04-resources",
+          "title": "Resources",
+          "tier": "archived",
+          "path": "05-capstone/docs/arc-04-resources.md",
+          "cohorts": [
+            "20171003-FullStack-Day"
+          ],
+          "source": "20171003-FullStack-Day",
+          "drift": 1.0
+        }
+      ],
+      "labs": []
+    },
+    {
+      "key": "post_course",
+      "slug": "06-post-course",
+      "title": "Post-Course",
+      "docs": [
+        {
+          "slug": "01-interview",
+          "title": "The Interview",
+          "tier": "current",
+          "path": "06-post-course/docs/01-interview.md",
+          "cohorts": [
+            "class_sheep",
+            "class_honeybadger",
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 0.94
+        },
+        {
+          "slug": "02-jobs",
+          "title": "Jobs",
+          "tier": "current",
+          "path": "06-post-course/docs/02-jobs.md",
+          "cohorts": [
+            "class_sheep",
+            "class_honeybadger",
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "03-linkedin-checklist",
+          "title": "LinkedIn Checklist",
+          "tier": "current",
+          "path": "06-post-course/docs/03-linkedin-checklist.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_honeybadger",
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "04-post-bootcamp",
+          "title": "Post Bootcamp",
+          "tier": "current",
+          "path": "06-post-course/docs/04-post-bootcamp.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_honeybadger",
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "05-resume-checklist",
+          "title": "Resume Checklist",
+          "tier": "current",
+          "path": "06-post-course/docs/05-resume-checklist.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana",
+            "class_sheep",
+            "class_honeybadger",
+            "class_mountain_goat",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "06-terms",
+          "title": "Networking",
+          "tier": "current",
+          "path": "06-post-course/docs/06-terms.md",
+          "cohorts": [
+            "class_honeybadger",
+            "class_bumble_bee"
+          ],
+          "source": "class_bumble_bee",
+          "drift": 1.0
+        },
+        {
+          "slug": "arc-01-job-search",
+          "title": "Job Search",
+          "tier": "archived",
+          "path": "06-post-course/docs/arc-01-job-search.md",
+          "cohorts": [
+            "20180116-FullStack-Day",
+            "class_platypus",
+            "class_iguana"
+          ],
+          "source": "class_iguana",
+          "drift": 1.0
+        }
+      ],
+      "labs": []
+    }
+  ]
+}

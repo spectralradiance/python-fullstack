@@ -1,0 +1,243 @@
+type,unit,key,slug,n_cohorts,source_cohort,source_path,drift_vs_oldest,similarity_to_reference,solution_cohort
+doc,general,resources,01-resources,1,class_armadillo,0 General/00 - Resources.md,1.00,,
+doc,general,class_structure,02-class-structure,3,class_bumble_bee,0 General/01 - Class Structure.md,1.00,,
+doc,general,course_overview,03-course-overview,1,class_eagle,0 General/01 Course Overview.md,1.00,,
+doc,general,setup,04-setup,13,class_eagle,0 General/02 Setup.md,0.12,,
+doc,general,ergonomics,05-ergonomics,1,class_armadillo,0 General/03 - Ergonomics.md,1.00,,
+doc,general,git,06-git,6,class_eagle,0 General/03 Git.md,0.52,,
+doc,general,markdown,07-markdown,12,class_eagle,0 General/04 Markdown.md,0.93,,
+doc,general,regular_expressions,08-regular-expressions,12,class_eagle,0 General/05 Regular Expressions.md,0.50,,
+doc,general,software,09-software,3,class_bumble_bee,0 General/06 - Software.md,1.00,,
+doc,general,programming_languages,10-programming-languages,1,class_eagle,0 General/06 Programming Languages.md,1.00,,
+doc,general,programming_overview,11-programming-overview,11,class_bumble_bee,0 General/07 - Programming.md,0.17,,
+doc,general,json_csv_xml,12-json-csv-xml,4,class_eagle,"0 General/07 JSON, CSV, & XML.md",1.00,,
+doc,general,networking,13-networking,3,class_bumble_bee,0 General/08 - Networking.md,1.00,,
+doc,general,http_requests_apis,14-http-requests-apis,1,class_eagle,0 General/08 HTTP Requests & APIs.md,1.00,,
+doc,general,professional_programming,15-professional-programming,1,class_eagle,0 General/09 Professional Programming.md,1.00,,
+doc,general,expectations,arc-01-expectations,1,20171003-FullStack-Day,0 - Intro/1 - Expectations.md,1.00,,
+doc,general,objectives_activities,arc-02-objectives-activities,9,class_raccoon,0 Intro/1 - Objectives & Activities.md,0.16,,
+doc,general,curriculum_overview,arc-03-curriculum-overview,8,class_raccoon,0 Intro/2 - Curriculum Overview.md,1.00,,
+doc,general,roles_responsibilities,arc-04-roles-responsibilities,8,class_raccoon,0 Intro/2 - Roles & Responsibilities.md,1.00,,
+doc,general,logistics,arc-05-logistics,9,class_raccoon,0 Intro/3 - Logistics.md,0.94,,
+doc,general,advice,arc-06-advice,8,class_raccoon,0 Intro/4 - Advice.md,1.00,,
+doc,general,code_of_conduct,arc-07-code-of-conduct,1,20171003-FullStack-Day,0 - Intro/4 - Code of Conduct.md,1.00,,
+doc,general,post_course,arc-08-post-course,1,20171003-FullStack-Day,0 - Intro/5 - Post-Course.md,1.00,,
+doc,general,cli,arc-09-cli,9,class_raccoon,0 Intro/6 - CLI.md,0.99,,
+doc,general,version_control,arc-10-version-control,7,class_emu,0 Intro/7 - Version Control.md,0.88,,
+doc,general,atom,arc-11-atom,1,class_raccoon,0 Intro/Atom.md,1.00,,
+doc,general,general_resources,arc-12-general-resources,7,class_raccoon,0 Intro/General Resources.md,0.11,,
+doc,general,learning_resources,arc-13-learning-resources,7,class_raccoon,0 Intro/Learning Resources.md,1.00,,
+doc,general,libraries_frameworks,arc-14-libraries-frameworks,7,class_raccoon,0 Intro/Libraries and Frameworks.md,0.94,,
+doc,general,software_development_life_cycle,arc-15-software-development-life-cycle,4,class_raccoon,0 Intro/Software Development Life-Cycle.md,1.00,,
+doc,general,internet,arc-16-internet,8,class_raccoon,0 Intro/The Internet.md,0.86,,
+doc,python,resources,01-resources,1,class_armadillo,1 Python/docs/00 - Resources.md,1.00,,
+doc,python,python_overview,02-python-overview,13,class_eagle,1 Python/docs/00 Python Overview.md,0.31,,
+doc,python,fundamentals,03-fundamentals,4,class_eagle,1 Python/docs/01 Fundamentals.md,0.63,,
+doc,python,exceptions_testing,04-exceptions-testing,1,class_eagle,1 Python/docs/02 Exceptions & Testing.md,1.00,,
+doc,python,numbers_arithmetic,05-numbers-arithmetic,13,class_eagle,1 Python/docs/03 Numbers & Arithmetic.md,0.42,,
+doc,python,booleans_comparisons_conditionals,06-booleans-comparisons-conditionals,13,class_eagle,"1 Python/docs/04 Booleans, Comparisons, & Conditionals.md",0.30,,
+doc,python,modules_packages,07-modules-packages,12,class_eagle,"1 Python/docs/05 Imports, Modules, & Packages.md",0.60,,
+doc,python,random,08-random,1,class_eagle,1 Python/docs/06 Random.md,1.00,,
+doc,python,loops,09-loops,13,class_eagle,1 Python/docs/07 While & For Loops.md,0.81,,
+doc,python,strings,10-strings,13,class_eagle,1 Python/docs/08 Strings.md,0.37,,
+doc,python,lists_tuples,11-lists-tuples,13,class_eagle,1 Python/docs/09 Lists & Tuples.md,0.38,,
+doc,python,functions,12-functions,4,class_eagle,1 Python/docs/10 Functions.md,1.00,,
+doc,python,dictionaries,13-dictionaries,13,class_eagle,1 Python/docs/11 Dictionaries.md,0.62,,
+doc,python,regular_expressions_in_python,14-regular-expressions-in-python,12,class_eagle,1 Python/docs/12 Regular Expressions in Python.md,0.52,,
+doc,python,datetimes,15-datetimes,3,class_eagle,1 Python/docs/13 Datetimes.md,1.00,,
+doc,python,exceptions,16-exceptions,12,class_bumble_bee,1 Python/docs/14 - Exceptions.md,0.41,,
+doc,python,classes,17-classes,13,class_eagle,1 Python/docs/14 Classes.md,0.48,,
+doc,python,requests,18-requests,3,class_eagle,1 Python/docs/15 Requests.md,0.99,,
+doc,python,docstrings,19-docstrings,13,class_eagle,1 Python/docs/Docstrings.md,0.68,,
+doc,python,file_io,20-file-io,13,class_eagle,1 Python/docs/File IO.md,0.87,,
+doc,python,quick_reference,21-quick-reference,1,class_armadillo,1 Python/docs/Quick Reference.md,1.00,,
+doc,python,sets,22-sets,13,class_eagle,1 Python/docs/Sets.md,0.87,,
+doc,python,virtual_environments,23-virtual-environments,13,class_eagle,1 Python/docs/Virtual Environments.md,0.70,,
+doc,python,executing_python,arc-01-executing-python,9,class_raccoon,1 Python/docs/02 - Executing Python.md,0.97,,
+doc,python,variables_io,arc-02-variables-io,9,class_raccoon,1 Python/docs/03 - Variables & IO.md,1.00,,
+doc,python,using_functions,arc-03-using-functions,9,class_raccoon,1 Python/docs/07 - Using Functions.md,0.90,,
+doc,python,defining_functions,arc-04-defining-functions,9,class_raccoon,1 Python/docs/10 - Defining Functions.md,0.98,,
+doc,python,additional_resources,arc-05-additional-resources,9,class_raccoon,1 Python/docs/Additional Resources.md,0.00,,
+doc,python,classes_dunder_methods,arc-06-classes-dunder-methods,1,20171003-FullStack-Day,1 - Python/docs/Classes - Dunder Methods.md,1.00,,
+doc,python,comprehensions,arc-07-comprehensions,9,class_raccoon,1 Python/docs/Comprehensions.md,1.00,,
+doc,python,ergonomics,arc-08-ergonomics,9,class_raccoon,1 Python/docs/Ergonomics.md,1.00,,
+doc,python,frameworks_libraries,arc-09-frameworks-libraries,1,20171003-FullStack-Day,1 - Python/docs/Frameworks and Libraries.md,1.00,,
+doc,python,functional_programming,arc-10-functional-programming,1,20171003-FullStack-Day,1 - Python/docs/Functional Programming.md,1.00,,
+doc,python,list_of_terms,arc-11-list-of-terms,9,class_raccoon,1 Python/docs/List of Terms.md,1.00,,
+doc,python,object_oriented_programming,arc-12-object-oriented-programming,1,20171003-FullStack-Day,1 - Python/docs/Object-Oriented Programming.md,1.00,,
+doc,python,tuples,arc-13-tuples,1,20171003-FullStack-Day,1 - Python/docs/Tuples.md,1.00,,
+lab,python,turtle,01-turtle,13,class_eagle,1 Python/labs/01 Turtle.md,1.00,1.00,class_eagle
+lab,python,madlib,02-madlib,13,class_eagle,1 Python/labs/02 Mad Lib.md,0.90,1.00,class_eagle
+lab,python,grading,03-grading,13,class_eagle,1 Python/labs/03 Grading.md,0.53,1.00,class_eagle
+lab,python,magic_8_ball,04-magic-8-ball,12,class_bumble_bee,1 Python/labs/lab04-magic_8_ball.md,0.94,1.00,class_bumble_bee
+lab,python,random_emoticon_generator,05-random-emoticon-generator,12,class_bumble_bee,1 Python/labs/lab05-random_emoticon_generator.md,0.72,0.72,class_eagle
+lab,python,random_password,06-random-password,13,class_eagle,1 Python/labs/06 Random Password Generator.md,0.51,1.00,class_eagle
+lab,python,rock_paper_scissors,07-rock-paper-scissors,13,class_eagle,1 Python/labs/05 Rock Paper Scissors.md,0.72,1.00,class_eagle
+lab,python,make_change,08-make-change,13,class_eagle,1 Python/labs/04 Make Change.md,0.57,1.00,class_eagle
+lab,python,guess_the_number,09-guess-the-number,12,class_bumble_bee,1 Python/labs/lab08-guess_the_number.md,1.00,1.00,class_eagle
+lab,python,simple_calculator,10-simple-calculator,10,class_armadillo,1 Python/labs/lab13-simple_calculator.md,0.43,0.57,class_armadillo
+lab,python,peaks_and_valleys,11-peaks-and-valleys,13,class_eagle,1 Python/labs/07 Peaks and Valleys.md,0.92,1.00,class_eagle
+lab,python,blackjack_advice,12-blackjack-advice,12,class_eagle,1 Python/labs/09 Blackjack Advice.md,0.69,1.00,class_eagle
+lab,python,dad_joke_api,13-dad-joke-api,1,class_eagle,1 Python/labs/10 Dad Joke API.md,1.00,1.00,class_eagle
+lab,python,pick6,14-pick6,13,class_eagle,1 Python/labs/08 Pick6.md,0.99,0.97,class_eagle
+lab,python,rot13,15-rot13,13,class_eagle,1 Python/labs/11 Rot Cipher.md,0.65,1.00,class_eagle
+lab,python,unit_converter,16-unit-converter,13,class_eagle,1 Python/labs/12 Unit Converter.md,1.00,1.00,class_eagle
+lab,python,number_to_phrase,17-number-to-phrase,12,class_bumble_bee,1 Python/labs/lab13-number_to_phrase.md,0.96,0.97,class_eagle
+lab,python,count_words,18-count-words,13,class_eagle,1 Python/labs/13 Count Words.md,0.73,1.00,class_eagle
+lab,python,ari,19-ari,13,class_eagle,1 Python/labs/14 ARI.md,0.93,1.00,class_eagle
+lab,python,searching_and_sorting,20-searching-and-sorting,1,class_eagle,1 Python/labs/16 Searching and Sorting.md,1.00,1.00,class_eagle
+lab,python,contact_list,21-contact-list,9,class_eagle,1 Python/labs/17 Contact List.md,0.15,1.00,class_eagle
+lab,python,rain_data,22-rain-data,13,class_eagle,1 Python/labs/15 Rain Data.md,0.55,1.00,class_eagle
+lab,python,quote_api,23-quote-api,5,class_eagle,1 Python/labs/18 Quotes API.md,0.88,1.00,class_bumble_bee
+lab,python,atm,24-atm,12,class_bumble_bee,1 Python/labs/lab18-atm.md,0.51,0.51,class_eagle
+lab,python,trivia_api,25-trivia-api,1,class_eagle,1 Python/labs/19 Trivia API.md,1.00,1.00,class_eagle
+lab,python,adventure,26-adventure,12,class_eagle,1 Python/labs/20 Adventure.md,0.80,1.00,class_eagle
+lab,python,bogosort,mob-01-bogosort,12,class_bumble_bee,1 Python/labs/mobbed-bogosort.md,1.00,1.00,class_eagle
+lab,python,credit_card_validation,mob-02-credit-card-validation,12,class_bumble_bee,1 Python/labs/mobbed-credit_card_validation.md,1.00,1.00,class_eagle
+lab,python,any_api,mob-03-any-api,3,class_bumble_bee,1 Python/labs/mobbed-any_api.md,0.45,0.15,class_bumble_bee
+lab,python,currency_exchange,mob-04-currency-exchange,2,class_bumble_bee,1 Python/labs/mobbed-currency_exchange.md,0.10,,class_eagle
+lab,python,hangman,mob-05-hangman,11,class_bumble_bee,1 Python/labs/mobbed-hangman.md,0.52,0.52,class_bumble_bee
+lab,python,jackalope,mob-06-jackalope,8,class_armadillo,1 Python/labs/mob-jackalope.md,0.99,0.99,20180116-FullStack-Day
+lab,python,lcr,mob-07-lcr,11,class_bumble_bee,1 Python/labs/mobbed-lcr.md,0.80,0.80,class_eagle
+lab,python,average_numbers,opt-01-average-numbers,10,class_armadillo,1 Python/labs/optional-average_numbers.md,0.72,0.72,class_armadillo
+lab,python,image_manipulation,opt-02-image-manipulation,10,class_armadillo,1 Python/labs/optional-image_manipulation.md,0.93,1.00,class_armadillo
+lab,python,palindrome_anagram,opt-03-palindrome-anagram,9,class_armadillo,1 Python/labs/optional-palindrome_anagram.md,1.00,1.00,class_armadillo
+lab,python,compsci_data_structures,opt-04-compsci-data-structures,3,class_bumble_bee,1 Python/labs/optional-compsci_data_structures.md,0.59,,
+lab,python,sock_sorter,opt-05-sock-sorter,9,class_armadillo,1 Python/labs/optional-sock_sorter.md,0.99,1.00,20171003-FullStack-Day
+lab,python,road_trip,opt-06-road-trip,9,class_armadillo,1 Python/labs/optional-road_trip.md,1.00,1.00,20171003-FullStack-Day
+lab,python,compsci_algorithms,opt-07-compsci-algorithms,3,class_bumble_bee,1 Python/labs/optional-compsci_algorithms.md,0.98,,
+lab,python,crime_data,opt-08-crime-data,10,class_armadillo,1 Python/labs/optional-crime_data.md,0.65,0.98,class_ocelot
+lab,python,arbitrary_precision_arithmetic,opt-09-arbitrary-precision-arithmetic,8,class_armadillo,1 Python/labs/optional-arbitrary_precision_arithmetic.md,1.00,1.00,class_armadillo
+lab,python,comsci_extra,opt-10-comsci-extra,1,class_armadillo,1 Python/labs/optional-comsci_extra.md,1.00,,
+lab,python,tree,opt-11-tree,9,class_armadillo,1 Python/labs/optional-tree.md,1.00,1.00,
+lab,python,hello_world,arc-01-hello-world,1,20171003-FullStack-Day,1 - Python/labs/lab02-hello.md,1.00,,20171003-FullStack-Day
+lab,python,practice,arc-02-practice,1,20171003-FullStack-Day,1 - Python/labs/lab14-practice.md,1.00,,class_mountain_goat
+lab,python,practice_problems,arc-03-practice-problems,1,20171003-FullStack-Day,1 - Python/labs/lab22-practice_problems.md,1.00,,20171003-FullStack-Day
+lab,python,blackjack,arc-04-blackjack,1,20171003-FullStack-Day,1 - Python/labs/optional-blackjack.md,1.00,,class_eagle
+doc,flask_html_css,resources,01-resources,1,class_armadillo,2 HTML+CSS/docs/00 - Resources.md,1.00,,
+doc,flask_html_css,html_overview,02-html-overview,12,class_eagle,2 Flask + HTML + CSS/docs/01 HTML Overview.md,0.76,,
+doc,flask_html_css,html_elements,03-html-elements,12,class_eagle,2 Flask + HTML + CSS/docs/02 HTML Elements.md,0.79,,
+doc,flask_html_css,css_overview,04-css-overview,12,class_eagle,2 Flask + HTML + CSS/docs/03 CSS Overview.md,0.62,,
+doc,flask_html_css,css_selectors,05-css-selectors,12,class_eagle,2 Flask + HTML + CSS/docs/04 CSS Selectors.md,0.87,,
+doc,flask_html_css,css_properties,06-css-properties,12,class_eagle,2 Flask + HTML + CSS/docs/05 CSS Properties.md,0.07,,
+doc,flask_html_css,css_box_model,07-css-box-model,12,class_eagle,2 Flask + HTML + CSS/docs/06 CSS Box Model.md,0.98,,
+doc,flask_html_css,css_flexbox_grid,08-css-flexbox-grid,12,class_eagle,2 Flask + HTML + CSS/docs/07 CSS Flexbox + Grid.md,0.96,,
+doc,flask_html_css,css_responsive_design,09-css-responsive-design,12,class_eagle,2 Flask + HTML + CSS/docs/08 CSS Responsive Design.md,1.00,,
+doc,flask_html_css,css_bootstrap,10-css-bootstrap,3,class_eagle,2 Flask + HTML + CSS/docs/09 CSS Bootstrap & Materialize.md,0.26,,
+doc,flask_html_css,css_animations,11-css-animations,12,class_eagle,2 Flask + HTML + CSS/docs/10 CSS Animations.md,0.97,,
+doc,flask_html_css,html_forms,12-html-forms,12,class_eagle,2 Flask + HTML + CSS/docs/11 HTML Forms.md,0.58,,
+doc,flask_html_css,flask,13-flask,3,class_eagle,2 Flask + HTML + CSS/docs/12 Flask.md,0.61,,
+doc,flask_html_css,flask_forms,14-flask-forms,1,class_eagle,2 Flask + HTML + CSS/docs/13 Flask Forms.md,1.00,,
+doc,flask_html_css,html_css_templates,15-html-css-templates,1,class_eagle,2 Flask + HTML + CSS/docs/HTML+CSS Templates.md,1.00,,
+doc,flask_html_css,css_position,arc-01-css-position,8,class_raccoon,2 HTML + CSS/docs/07 - CSS Position.md,1.00,,
+doc,flask_html_css,additional_resources,arc-02-additional-resources,7,class_honeybadger,2 HTML + CSS/docs/Additional Resources.md,,,
+lab,flask_html_css,bio,01-bio,12,class_eagle,2 Flask + HTML + CSS/labs/01 Bio.md,0.66,1.00,class_eagle
+lab,flask_html_css,flask_intro,02-flask-intro,2,class_armadillo,3 Flask/labs/lab01_flask_intro.md,1.00,,
+lab,flask_html_css,blog,03-blog,12,class_eagle,2 Flask + HTML + CSS/labs/02 Blog.md,0.51,0.10,class_bumble_bee
+lab,flask_html_css,flask_todo,04-flask-todo,2,class_armadillo,3 Flask/labs/lab02_flask_todo.md,0.91,,
+lab,flask_html_css,company_home,05-company-home,12,class_eagle,2 Flask + HTML + CSS/labs/03 Company.md,0.70,1.00,class_bumble_bee
+lab,flask_html_css,burrito_order_form,06-burrito-order-form,10,class_eagle,2 Flask + HTML + CSS/labs/05 Burrito Order Form.md,0.43,1.00,
+lab,flask_html_css,flask_redo,07-flask-redo,1,class_eagle,2 Flask + HTML + CSS/labs/06 Flask Redo.md,1.00,1.00,
+lab,flask_html_css,personal_portfolio,08-personal-portfolio,12,class_eagle,2 Flask + HTML + CSS/labs/04 Personal Portfolio.md,0.25,1.00,
+lab,flask_html_css,rock_paper_scissors,mob-01-rock-paper-scissors,1,class_armadillo,3 Flask/labs/mob-rps.md,1.00,0.24,
+lab,flask_html_css,flask_apis,opt-01-flask-apis,2,class_armadillo,3 Flask/labs/optional-flask_apis.md,0.99,,
+lab,flask_html_css,animations,opt-02-animations,9,class_armadillo,2 HTML+CSS/labs/optional-animations.md,0.99,0.99,
+doc,django,resources,01-resources,1,class_armadillo,4 Django/docs/00 - Resources.md,1.00,,
+doc,django,django_overview,02-django-overview,13,class_eagle,3 Django/docs/01 Django Overview.md,0.40,,
+doc,django,routes,03-routes,13,class_eagle,3 Django/docs/02 Routes.md,0.33,,
+doc,django,views,04-views,13,class_eagle,3 Django/docs/03 Views.md,0.58,,
+doc,django,templates,05-templates,13,class_eagle,3 Django/docs/04 Templates.md,0.58,,
+doc,django,forms,06-forms,12,class_eagle,3 Django/docs/05 Forms.md,0.54,,
+doc,django,models,07-models,13,class_eagle,3 Django/docs/06 Models.md,0.40,,
+doc,django,user_management,08-user-management,13,class_eagle,3 Django/docs/07 User Management.md,0.39,,
+doc,django,media_files,09-media-files,11,class_bumble_bee,4 Django/docs/08 - Media Files.md,0.92,,
+doc,django,uploading_files,10-uploading-files,1,class_eagle,3 Django/docs/08 Uploading Files.md,1.00,,
+doc,django,advanced_topics,11-advanced-topics,12,class_eagle,3 Django/docs/09 Advanced Topics.md,0.99,,
+doc,django,class_based_views,12-class-based-views,12,class_eagle,3 Django/docs/Class-Based Views.md,0.85,,
+doc,django,databases,13-databases,10,class_bumble_bee,4 Django/docs/Databases.md,0.90,,
+doc,django,deployment,14-deployment,4,class_eagle,3 Django/docs/Deployment.md,0.73,,
+doc,django,django_quickstart,15-django-quickstart,13,class_eagle,3 Django/docs/Django Quickstart.md,0.21,,
+doc,django,email,16-email,12,class_eagle,3 Django/docs/Email.md,1.00,,
+doc,django,syntax_reference,17-syntax-reference,5,class_bumble_bee,4 Django/docs/Syntax Reference.md,1.00,,
+doc,django,advanced_topics_incomplete,arc-01-advanced-topics-incomplete,1,class_ocelot,4 Django/docs/advanced_topics-incomplete.md,1.00,,
+doc,django,angularjs,arc-02-angularjs,1,20171003-FullStack-Day,4 - Django/docs/AngularJS.md,1.00,,
+doc,django,custom_management_commands,arc-03-custom-management-commands,9,class_raccoon,4 Django/docs/Custom Management Commands.md,1.00,,
+doc,django,django_quickstart_2,arc-04-django-quickstart-2,1,class_honeybadger,4 Django/docs/Django Quickstart 2.md,1.00,,
+doc,django,google_maps,arc-05-google-maps,1,20171003-FullStack-Day,4 - Django/docs/Google Maps.md,1.00,,
+lab,django,polls,01-polls,12,class_bumble_bee,4 Django/labs/lab01-polls.md,0.73,0.73,
+lab,django,django_redo,02-django-redo,1,class_eagle,3 Django/labs/01 Django Redo.md,1.00,1.00,
+lab,django,contact_list,03-contact-list,4,class_armadillo,4 Django/labs/lab03-contacts.md,0.54,0.17,class_eagle
+lab,django,todo,04-todo,13,class_eagle,3 Django/labs/02 Todo.md,0.19,1.00,class_bumble_bee
+lab,django,url_shortener,05-url-shortener,12,class_bumble_bee,4 Django/labs/lab03-url_shortener.md,0.59,0.60,class_eagle
+lab,django,blog,06-blog,4,class_eagle,3 Django/labs/03 Blog.md,0.22,1.00,class_eagle
+lab,django,pokedex,07-pokedex,3,class_bumble_bee,4 Django/labs/lab05-pokedex.md,0.85,0.50,
+lab,django,madlib,08-madlib,2,class_bumble_bee,4 Django/labs/madlib.md,0.31,0.14,class_eagle
+lab,django,library,opt-01-library,11,class_armadillo,4 Django/labs/optional-library.md,0.51,0.51,class_bumble_bee
+doc,javascript,resources,01-resources,1,class_armadillo,5 JavaScript/docs/00 - Resources.md,1.00,,
+doc,javascript,javascript_overview,02-javascript-overview,13,class_eagle,4 JavaScript/docs/01 - Overview.md,0.46,,
+doc,javascript,javascript_fundamentals,03-javascript-fundamentals,13,class_eagle,4 JavaScript/docs/02 - JavaScript Fundamentals.md,0.62,,
+doc,javascript,numbers_arithmetic,04-numbers-arithmetic,13,class_eagle,4 JavaScript/docs/03 - Numbers and Arithmetic.md,0.55,,
+doc,javascript,booleans_comparisons_conditionals,05-booleans-comparisons-conditionals,13,class_eagle,"4 JavaScript/docs/04 - Booleans, Comparisons and Conditionals.md",0.81,,
+doc,javascript,strings,06-strings,13,class_eagle,4 JavaScript/docs/05 - Strings.md,0.24,,
+doc,javascript,objects,07-objects,13,class_eagle,4 JavaScript/docs/06 - Objects.md,0.51,,
+doc,javascript,loops,08-loops,4,class_eagle,4 JavaScript/docs/07 - Loops.md,1.00,,
+doc,javascript,arrays,09-arrays,4,class_eagle,4 JavaScript/docs/08 - Arrays.md,1.00,,
+doc,javascript,functions,10-functions,13,class_eagle,4 JavaScript/docs/09 - Functions.md,0.43,,
+doc,javascript,classes,11-classes,13,class_eagle,4 JavaScript/docs/10 - Classes.md,0.70,,
+doc,javascript,dom_manipulation,12-dom-manipulation,12,class_bumble_bee,3 JavaScript/docs/11 - DOM Manipulation.md,0.59,,
+doc,javascript,editing_html,13-editing-html,1,class_eagle,4 JavaScript/docs/11 - Editing HTML.md,1.00,,
+doc,javascript,events,14-events,13,class_eagle,4 JavaScript/docs/12 - Events.md,0.53,,
+doc,javascript,vue,15-vue,5,class_eagle,4 JavaScript/docs/13 - Vue.md,0.66,,
+doc,javascript,apis_ajax,16-apis-ajax,13,class_eagle,4 JavaScript/docs/14 - Ajax.md,0.43,,
+doc,javascript,canvas_drawing,17-canvas-drawing,13,class_eagle,4 JavaScript/docs/Canvas Drawing.md,0.82,,
+doc,javascript,html_css_js_templates,18-html-css-js-templates,1,class_eagle,4 JavaScript/docs/HTML+CSS+JS Templates.md,1.00,,
+doc,javascript,jquery,19-jquery,13,class_eagle,4 JavaScript/docs/jQuery.md,0.84,,
+doc,javascript,python_vs_javascript,20-python-vs-javascript,12,class_eagle,4 JavaScript/docs/Python vs JavaScript.md,0.93,,
+doc,javascript,regex_form_validation,21-regex-form-validation,11,class_bumble_bee,3 JavaScript/docs/Regex and Form Validation.md,0.90,,
+doc,javascript,timing,22-timing,13,class_eagle,4 JavaScript/docs/Timing.md,0.95,,
+doc,javascript,vue_vs_vanilla,23-vue-vs-vanilla,4,class_eagle,4 JavaScript/docs/Vanilla JS vs Vue.md,1.00,,
+doc,javascript,arrays_loops,arc-01-arrays-loops,9,class_raccoon,5 JavaScript/docs/06 - Arrays and Loops.md,1.00,,
+doc,javascript,form_validation,arc-02-form-validation,1,20171003-FullStack-Day,3 - JavaScript/docs/14 - Form Validation.md,1.00,,
+doc,javascript,regular_expressions,arc-03-regular-expressions,1,20171003-FullStack-Day,3 - JavaScript/docs/Regular Expressions.md,1.00,,
+doc,javascript,web_frameworks,arc-04-web-frameworks,1,20171003-FullStack-Day,3 - JavaScript/docs/Web Frameworks.md,1.00,,
+lab,javascript,pick_3,01-pick-3,12,class_bumble_bee,3 JavaScript/labs/lab01-03_pick3.md,0.26,0.77,
+lab,javascript,javascript_redo,02-javascript-redo,1,class_eagle,4 JavaScript/labs/01 JavaScript Redo.md,1.00,1.00,
+lab,javascript,timing,03-timing,1,class_armadillo,5 JavaScript/labs/lab04-05-timing.md,1.00,,
+lab,javascript,todo,04-todo,12,class_bumble_bee,3 JavaScript/labs/lab04-todolist.md,0.74,0.18,class_armadillo
+lab,javascript,vue_todo,05-vue-todo,6,class_eagle,4 JavaScript/labs/03 Vue Todo.md,0.21,1.00,
+lab,javascript,vue_redo,06-vue-redo,4,class_eagle,4 JavaScript/labs/02 Vue Redo.md,0.19,1.00,
+lab,javascript,random_redirector,07-random-redirector,10,class_armadillo,5 JavaScript/labs/random_redirector.md,1.00,1.00,class_armadillo
+lab,javascript,calculator,08-calculator,11,class_bumble_bee,3 JavaScript/labs/lab06-calculator.md,0.72,0.73,
+lab,javascript,cat_api,09-cat-api,2,class_bumble_bee,3 JavaScript/labs/lab07-cat_api.md,1.00,,class_armadillo
+lab,javascript,quiz,10-quiz,6,class_armadillo,5 JavaScript/labs/vanilla-quiz.md,1.00,,
+lab,javascript,weather_api,11-weather-api,4,class_eagle,4 JavaScript/labs/Weather API.md,1.00,1.00,
+lab,javascript,vue_cats,12-vue-cats,1,class_armadillo,5 JavaScript/labs/lab09-vue_cats.md,1.00,,
+lab,javascript,any_api,13-any-api,11,class_eagle,4 JavaScript/labs/04 Any API.md,0.18,1.00,
+lab,javascript,pokedex,14-pokedex,1,class_eagle,4 JavaScript/labs/05 Pokedex.md,1.00,1.00,
+lab,javascript,quote_api,15-quote-api,10,class_armadillo,5 JavaScript/labs/lab06-quote_api.md,0.28,0.31,
+lab,javascript,vue_quiz,16-vue-quiz,1,class_armadillo,5 JavaScript/labs/lab10-vue_quiz.md,1.00,,
+lab,javascript,mini,17-mini,1,class_armadillo,5 JavaScript/labs/minilab.md,1.00,,
+lab,javascript,practice,18-practice,1,class_armadillo,5 JavaScript/labs/practice.md,1.00,,
+lab,javascript,guess_the_number,mob-01-guess-the-number,1,class_armadillo,5 JavaScript/labs/mob-guess_the_number.md,1.00,0.30,class_bumble_bee
+lab,javascript,hackertyper,opt-01-hackertyper,9,class_armadillo,5 JavaScript/labs/optional-hackertyper.md,1.00,1.00,
+lab,javascript,bouncing_ball,opt-02-bouncing-ball,10,class_armadillo,5 JavaScript/labs/optional-bouncing_ball.md,0.90,1.00,class_armadillo
+lab,javascript,form_validation,opt-03-form-validation,10,class_armadillo,5 JavaScript/labs/optional-form_validation.md,1.00,1.00,20171003-FullStack-Day
+lab,javascript,clock,opt-04-clock,10,class_armadillo,5 JavaScript/labs/optional-clock.md,0.99,0.99,class_armadillo
+lab,javascript,redo_3,arc-01-redo-3,1,20171003-FullStack-Day,3 - JavaScript/labs/lab04-06-redo_three.md,1.00,,
+lab,javascript,user_api,arc-02-user-api,1,20171003-FullStack-Day,3 - JavaScript/labs/lab12-user_api.md,1.00,,20171003-FullStack-Day
+lab,javascript,pong,arc-03-pong,1,20171003-FullStack-Day,3 - JavaScript/labs/optional-pong.md,1.00,,20171003-FullStack-Day
+lab,javascript,weather,arc-04-weather,1,20171003-FullStack-Day,3 - JavaScript/labs/optional-weather.md,1.00,,
+doc,capstone,apis_libraries,01-apis-libraries,10,class_eagle,5 Capstone/apis_libraries.md,1.00,,
+doc,capstone,capstone_ideas,02-capstone-ideas,11,class_eagle,5 Capstone/Capstone Ideas.md,0.98,,
+doc,capstone,capstone_proposal,03-capstone-proposal,12,class_eagle,5 Capstone/Capstone Proposal.md,0.70,,
+doc,capstone,capstone_presentations,arc-01-capstone-presentations,1,20180116-FullStack-Day,5 Capstone/Capstone Presentations.md,1.00,,
+doc,capstone,deployment,arc-02-deployment,6,class_raccoon,6 Capstone/deployment.md,0.17,,
+doc,capstone,ideas_from_past_capstones,arc-03-ideas-from-past-capstones,1,20171003-FullStack-Day,5 - Capstone/Ideas From Past Capstones.md,1.00,,
+doc,capstone,resources,arc-04-resources,1,20171003-FullStack-Day,5 - Capstone/Resources.md,1.00,,
+doc,post_course,interview,01-interview,4,class_bumble_bee,6 Post-Course/interview.md,0.94,,
+doc,post_course,jobs,02-jobs,4,class_bumble_bee,6 Post-Course/jobs.md,1.00,,
+doc,post_course,linkedin_checklist,03-linkedin-checklist,7,class_bumble_bee,6 Post-Course/LinkedIn Checklist.md,1.00,,
+doc,post_course,post_bootcamp,04-post-bootcamp,7,class_bumble_bee,6 Post-Course/Post Bootcamp.md,1.00,,
+doc,post_course,resume_checklist,05-resume-checklist,7,class_bumble_bee,6 Post-Course/Resume Checklist.md,1.00,,
+doc,post_course,terms,06-terms,2,class_bumble_bee,6 Post-Course/terms.md,1.00,,
+doc,post_course,job_search,arc-01-job-search,3,class_iguana,6 Post-Course/Job Search.md,1.00,,

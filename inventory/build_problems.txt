@@ -1,0 +1,6 @@
+missing image images/profile.jpg in class_eagle:2 Flask + HTML + CSS/docs/01 HTML Overview.md
+missing image {% static  in class_eagle:3 Django/docs/04 Templates.md
+missing image {{image.url}} in class_bumble_bee:4 Django/docs/08 - Media Files.md
+missing image {{image.url}} in class_eagle:3 Django/docs/08 Uploading Files.md
+missing image ... in class_bumble_bee:4 Django/labs/lab05-pokedex.md
+missing image image_url in class_eagle:4 JavaScript/docs/13 - Vue.md
