@@ -16,4 +16,3 @@ You can use one of the following APIs or [choose your own](https://github.com/pu
 - Current weather / forecast: [OpenWeatherMap](https://openweathermap.org/api). You can use the [built-in icons](https://openweathermap.org/weather-conditions#Icon-list) or these [more minimal ones](https://websygen.github.io/owfont/).
 - Search books: [Open Library API](https://openlibrary.org/developers/api)
 - Search cats: [Cat API](https://docs.thecatapi.com/)
-

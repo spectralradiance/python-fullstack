@@ -47,3 +47,10 @@ Tell the user whether their current guess is closer than their last. This can be
 ## Version 5 (optional)
 
 Swap the user with the computer: the user will pick a number, and the computer will make random guesses until they get it right.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/mob02_guess_the_number.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

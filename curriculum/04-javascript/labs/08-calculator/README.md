@@ -36,3 +36,9 @@ Show the ongoing operation above the main calculator screen. E.g. if the user en
 If the user presses an operator after the result is shown, take the result and make it the first operand. E.g. if the user hits `5`, `*`, `2`, `=`, show `10`. If they then press `*` again, `10` would become the first operand, and it would erase the screen for the user to enter the second operand.
 
 If the user presses `=` multiple times, keep applying the operation to the result. E.g. the user enters 5, *, 2, then hits = showing 10. If they hit `=` again, it'd show 20, and again, it'd show 40.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

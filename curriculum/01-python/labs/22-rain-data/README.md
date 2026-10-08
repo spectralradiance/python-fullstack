@@ -129,3 +129,10 @@ Some charts you can make are:
 ## Part 4 (optional)
 
 Use the CSV in the data folder to do some statistics on multiple locations: [link](./data/rain_output.csv).
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab15_rain_data.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

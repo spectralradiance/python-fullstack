@@ -30,3 +30,10 @@ One function you might write is `pick6()` which will generate a list of 6 random
 ## Version 2
 
 The ROI (return on investment) is defined as `(earnings - expenses)/expenses`. Calculate your ROI, print it out along with your earnings and expenses.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab08_pick6.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

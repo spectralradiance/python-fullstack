@@ -19,5 +19,11 @@ Numeric Ranges:
 
 ## Part 2
 
-Find the specific letter grade (A+, B-, etc). You can check for more specific ranges using `if` statements, or use modulus `%` to get the ones-digit to set another string to `'+'`, `'-'`, or `' '`. Then you can concatenate that string with your grade string. 
+Find the specific letter grade (A+, B-, etc). You can check for more specific ranges using `if` statements, or use modulus `%` to get the ones-digit to set another string to `'+'`, `'-'`, or `' '`. Then you can concatenate that string with your grade string.
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab03_grading.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

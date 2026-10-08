@@ -16,5 +16,9 @@ Use the [requests](../../docs/18-requests.md) library to send an HTTP request to
 
 Add the ability to "search" for jokes using [another endpoint](https://icanhazdadjoke.com/api#search-for-dad-jokes). Create a REPL that allows one to enter a search term and go through jokes one at a time. You can also add support for multiple pages.
 
+## Check your work
 
+Try the lab on your own first, then compare your approach:
 
+- [Reference solution](solution/lab10_dad_joke_api.py)
+- Student solutions: [student 1](student-solutions/student-1/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

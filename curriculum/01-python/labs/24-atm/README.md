@@ -52,3 +52,9 @@ while True:
 
 Have the ATM maintain a list of transactions. Every time the user makes a deposit or withdrawal, add a string to a list saying 'user deposited $15' or 'user withdrew $15'. Add a new method `print_transactions()` to your class for printing out the list of transactions.
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/mob09_atm.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

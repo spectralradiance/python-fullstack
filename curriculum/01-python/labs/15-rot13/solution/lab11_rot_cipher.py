@@ -10,7 +10,7 @@ def rot13(text):
     # start output as a blank string
     # iterate over the characters in the input string
         # find the index of the character in the alphabet
-        # https://github.com/PdxCodeGuild/class_eagle/blob/main/1%20Python/docs/08%20Strings.md#find-afindb
+        # https://github.com/spectralradiance/python-fullstack/blob/main/curriculum/01-python/docs/10-strings.md#find-afindb
         # use that index to find the corresponding character in the rotated alphabet
         # add the rotated character to your output
     # return your output
@@ -20,7 +20,7 @@ def rot13(text):
     # start output as a blank string
     # iterate over the characters in the input string
         # find the index of the character in the alphabet
-        # https://github.com/PdxCodeGuild/class_eagle/blob/main/1%20Python/docs/08%20Strings.md#find-afindb
+        # https://github.com/spectralradiance/python-fullstack/blob/main/curriculum/01-python/docs/10-strings.md#find-afindb
         # add 13 to the index
         # use subtraction or modulus to keep the index in a valid range
         # get the letter in the alphabet at that new index
@@ -36,7 +36,7 @@ def rot13(text):
     # add 13 to the ascii code
     # do some arithmetic to put the ascii code in a valid range
     # use chr to turn the ascii code into a character
-    # https://github.com/PdxCodeGuild/class_eagle/blob/main/1%20Python/docs/08%20Strings.md#ascii-codes-ord-and-chr
+    # https://github.com/spectralradiance/python-fullstack/blob/main/curriculum/01-python/docs/10-strings.md#ascii-codes-ord-and-chr
 
 
 

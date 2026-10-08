@@ -1,4 +1,7 @@
+# Content-only repository: build tooling and its data stay local.
 raw/
 staging/
+scripts/
+inventory/
 __pycache__/
 *.pyc

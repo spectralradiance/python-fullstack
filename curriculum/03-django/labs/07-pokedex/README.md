@@ -37,3 +37,8 @@ Add a form at the top of your list of pokemon with a text input to search for po
 
 Check out the [script](./pokedex.py) that creates the json file, you can use it to load even more pokemon into your database!
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

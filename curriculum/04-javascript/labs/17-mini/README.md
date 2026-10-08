@@ -74,3 +74,9 @@ let library = {
     }]
 }
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

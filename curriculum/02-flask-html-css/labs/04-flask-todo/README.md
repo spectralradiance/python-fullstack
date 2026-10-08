@@ -63,5 +63,8 @@ The resulting HTML should look something like this, but feel free to use a `tabl
 
 Using a `form`, allow the user to save a new todo item to the database. This should include a `input` for text, a `select` for the priority, and a `button` for submitting the form.
 
+## Check your work
 
+Try the lab on your own first, then compare your approach:
 
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

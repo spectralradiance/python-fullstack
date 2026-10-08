@@ -44,3 +44,10 @@ Count how often each unique pair of words is used, then print the top 10 most co
 ## Version 3 (optional)
 
 Let the user enter a word, then show the words which most frequently follow it.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab13_count_words.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

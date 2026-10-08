@@ -43,4 +43,9 @@ Below are some example 'predictions':
 
 Using a `while` loop, keep asking the user for a question, if they enter 'done', exit
 
+## Check your work
 
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab04-magic_8_ball.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

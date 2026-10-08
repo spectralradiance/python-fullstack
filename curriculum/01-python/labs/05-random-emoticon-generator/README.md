@@ -23,3 +23,10 @@ Use a `while` loop to generate 5 emoticons.
 ## Version 3
 
 Randomly generate vertical emoticons like `^_^` `(-_-)`, `[*.*]`
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/mob01_random_emoticon_generator.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

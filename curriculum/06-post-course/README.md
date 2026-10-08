@@ -1,14 +1,18 @@
-# Post-Course
+# 06 · Post-Course
 
-## Docs
+[← Course overview](../README.md)
 
-- [The Interview](docs/01-interview.md)
-- [Jobs](docs/02-jobs.md)
-- [LinkedIn Checklist](docs/03-linkedin-checklist.md)
-- [Post Bootcamp](docs/04-post-bootcamp.md)
-- [Resume Checklist](docs/05-resume-checklist.md)
-- [Networking](docs/06-terms.md)
+## Lessons
 
-## Archived Docs
+1. [The Interview](docs/01-interview.md)
+2. [Jobs](docs/02-jobs.md)
+3. [LinkedIn Checklist](docs/03-linkedin-checklist.md)
+4. [Post Bootcamp](docs/04-post-bootcamp.md)
+5. [Resume Checklist](docs/05-resume-checklist.md)
+6. [Networking](docs/06-terms.md)
 
-- [Job Search](docs/arc-01-job-search.md)
+## Extra lessons
+
+Further reading on the same topics.
+
+- [Job Search](docs/extra-01-job-search.md)

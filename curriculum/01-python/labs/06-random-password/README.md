@@ -8,3 +8,10 @@ Let's generate a password of length `n` using a `while` loop and `random.choice`
 ## Part 2 (optional)
 
 Ask the user for how many lowercase letters, uppercase letters, numbers, and special characters they'd like in their password. You do not want the pieces in order (e.g. 3 lowercase letters followed by 3 uppercase letters...). You can use `list(password_string)` or `password_string.split('')` to convert the string to a list, `random.shuffle(password_list)` to shuffle it, and then `''.join(password_list)` to turn it back into a string.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab06_random_password_generator.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

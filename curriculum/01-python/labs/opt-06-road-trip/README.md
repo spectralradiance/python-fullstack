@@ -32,3 +32,9 @@ city_to_accessible_cities_with_travel_time = {
   'Philadelphia': {'New York': 9},
 }
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab29-road_trip.py)

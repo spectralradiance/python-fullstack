@@ -17,3 +17,9 @@ What is the second number? 303003025050020203492
 ## Multiplication
 
 A simple (but inefficient) way of implementing multiplication is through repeated addition. For example, 564*6 = 564+564+564+564+564+564. A more efficient way would be [long multiplication](http://mathworld.wolfram.com/LongMultiplication.html).
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/arbitrary_precision_arithmetic.py)

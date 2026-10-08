@@ -13,3 +13,9 @@ You've just finished laundry and your expansive sock collection is in complete d
 Now you have a mix of types **and** colors. Represent socks using tuples containing one color and one type `('black', 'crew')`. Randomly generate these, and then group them into pairs.
 
 `sock_colors = ['black', 'white', 'blue']`
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab28-socks.py)

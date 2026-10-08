@@ -12,3 +12,9 @@ Let's make a form for validating user input using regular expressions. Note that
 - Phone Number: e.g. 293-555-0100
 - Date of Birth: e.g. 2/13/2627
 - Social Security Number: e.g. 415-25-2627
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab11-form_validation.html)

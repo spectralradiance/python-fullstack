@@ -59,3 +59,9 @@ Add pages for users to browse each other's posts.
 
 Add an `ImageField` to your model so each blog post can have a header image. Show a preview of this image on every post list, and the full image on a post detail.
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

@@ -37,3 +37,9 @@ headers = {'Authorization': 'Token token="YOUR_API_KEY"'}
   - get random quote `https://quote-garden.herokuapp.com/quotes/random`
   - get quotes by keyword `https://quote-garden.herokuapp.com/quotes/search/<keyword/`
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab17-quotes_api.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

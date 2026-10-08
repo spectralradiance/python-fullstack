@@ -15,3 +15,8 @@ Pick a Python lab and re-do it in JavaScript. You should first try to write them
 
 Once you have that working, use `input` and `button` elements, with events. You can read the docs on **DOM Manipulation** and **Events**. You can view a demo [here](https://codepen.io/flux2341/pen/rJpBXe?editors=1010).
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

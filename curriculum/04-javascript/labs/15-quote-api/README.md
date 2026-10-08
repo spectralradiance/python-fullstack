@@ -16,3 +16,9 @@ let headers = {'Authorization': 'Token token="YOUR_API_KEY"'}
 ## Version 3 (optional)
 
 Add next page / previous page buttons, and the `page` query parameter to move between pages.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

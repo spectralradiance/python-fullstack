@@ -48,7 +48,3 @@ root = generate_tree(1)
 print_node(root, '')
 print(count_nodes(root))
 ```
-
-
-
-

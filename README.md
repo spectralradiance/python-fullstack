@@ -1,68 +1,55 @@
 # Python Full Stack
 
-A single, merged version of the PDX Code Guild **Python Full Stack** bootcamp curriculum,
-assembled from the 13 cohorts I taught or assisted with between 2017 and 2021.
+A complete, self-paced course in building web applications with Python, from your first line of code to
+deploying your own full-stack project.
 
-Browse it in [`curriculum/`](curriculum/README.md):
+The material grew out of several years of teaching a full-stack Python course. Lessons were rewritten and
+labs were added, reordered and retired as each class showed what worked. What's here is the version that
+held up.
 
-| Unit | What's in it |
-|---|---|
-| [General](curriculum/00-general/README.md) | Setup, Git, Markdown, regex, the internet, professional practice |
-| [Python](curriculum/01-python/README.md) | 23 docs and 26 core labs, from Turtle to a text adventure, plus mob and optional labs |
-| [Flask + HTML + CSS](curriculum/02-flask-html-css/README.md) | HTML, CSS, layout, forms, Flask |
-| [Django](curriculum/03-django/README.md) | Routes, views, templates, models, auth, deployment |
-| [JavaScript](curriculum/04-javascript/README.md) | Language basics, DOM, events, AJAX, Vue |
-| [Capstone](curriculum/05-capstone/README.md) | Proposals, ideas, APIs |
-| [Post-Course](curriculum/06-post-course/README.md) | Resume, LinkedIn, interviewing, job search |
+## What you'll learn
 
-`curriculum/manifest.json` describes every unit, doc and lab (title, tier, which cohorts used it,
-source, reference solution) for programmatic use, e.g. by [mcdev](https://github.com/spectralradiance/mcdev).
+- **Programming fundamentals in Python:** variables, control flow, functions, data structures, files, classes, APIs
+- **The web:** HTML, CSS, layout and forms, then server-side apps with Flask
+- **Django:** routing, views, templates, models and databases, user accounts, deployment
+- **JavaScript:** the language, the DOM, events, talking to APIs, and Vue
+- **A capstone project** that ties it together, plus guidance on job searching afterwards
 
-## How it was merged
+No prior programming experience is needed.
 
-Source cohorts, oldest to newest: `20171003-FullStack-Day`, `20180116-FullStack-Day`, `class_ocelot`,
-`class_platypus`, `class_iguana`, `class_sheep`, `class_emu`, `class_honeybadger`, `class_raccoon`,
-`class_mountain_goat`, `class_armadillo`, `class_bumble_bee`, `class_eagle`. The curriculum
-template repos `PythonFullStack` and `PythonFullStack2` were used as references only.
+## How to use this course
 
-- **One version per item.** Docs and labs are matched across cohorts by normalized name
-  (`lab12-rot13.md`, `11 Rot Cipher.md` → `rot13`), and the newest cohort's text is used.
-- **Tiers.** Labs keep the newest cohort's designation (core / mob / optional). Anything not
-  taught in the last four cohorts is listed as *archived* rather than dropped.
-- **Order.** Labs are ordered by their median relative position in the five most recent cohorts
-  that taught them.
-- **Reference solutions** come from the newest cohort's `solutions/` folder that has a matching
-  file or project. Paths that belong to individual students are skipped.
-- `inventory/provenance.csv` records, for every item, how many cohorts used it, where the
-  canonical text came from, and how much it changed (`drift_vs_oldest`, 1.0 = unchanged).
+1. **Set up your computer** with the [setup guide](curriculum/00-general/docs/02-setup.md).
+2. **Go unit by unit.** Each unit's page lists its lessons and labs in order.
+3. **Read the lessons, then do the labs.** Labs are where the learning happens. Type the code yourself and
+   expect to get stuck; that's normal.
+4. **Check your work.** Most labs end with a *Check your work* section linking to a reference solution and to
+   solutions written by other students. Compare your approach after you've tried the lab, not before.
+5. **Build a capstone** when you reach unit 05, using everything from the units before it.
 
-## Privacy
+Want to see everything at once? The [course map](curriculum/README.md) lists every lesson and lab on one page.
 
-[`submissions/`](submissions/README.md) holds 101 curated, anonymized student solutions (about two per
-core lab). Students appear only as stable pseudonyms (`<cohort>-sNN`); names, contact details, keys and
-personal file paths are scrubbed, and personal labs (bio, portfolio), capstones and images are excluded.
-If you recognize your own work and want it removed, open an issue.
+## Units
 
-Every build runs
-`scripts/sanitize.py` (removes secrets/API keys, Django `SECRET_KEY`s, personal emails and phone
-numbers, classmates' GitHub links, OS user paths, and name credits on past capstones) followed by
-`scripts/pii_scan.py`, which checks every file against a roster of everyone who ever committed to
-the source repos and blocks the build on any unreviewed match. The roster and raw clones live in
-`raw/`, which is git-ignored and never published.
+| | Unit | What it covers | Lessons | Labs |
+|---|---|---|:---:|:---:|
+| 00 | [General](curriculum/00-general/README.md) | Tools and foundations: the command line, Git, Markdown, regular expressions, how the web works | 13 | — |
+| 01 | [Python](curriculum/01-python/README.md) | The Python language, from variables to classes and APIs | 23 | 26 |
+| 02 | [Flask + HTML + CSS](curriculum/02-flask-html-css/README.md) | HTML and CSS for structure and style, Flask for your first web apps | 15 | 8 |
+| 03 | [Django](curriculum/03-django/README.md) | Database-backed web applications with Django | 17 | 8 |
+| 04 | [JavaScript](curriculum/04-javascript/README.md) | JavaScript in the browser: the DOM, events, AJAX and Vue | 23 | 18 |
+| 05 | [Capstone](curriculum/05-capstone/README.md) | Planning and building your own full-stack project | 3 | — |
+| 06 | [Post-Course](curriculum/06-post-course/README.md) | Résumés, LinkedIn, interviews and the job search | 6 | — |
 
-Submissions are shortlisted with `scripts/shortlist_submissions.py` (static checks only, student code
-is never executed) and published with `scripts/publish_submissions.py`, which re-runs the gate.
+100 lessons, 60 core labs (95 labs including group, optional and extra labs).
 
-## Rebuilding
+## Lab types
 
-```bash
-bash scripts/build.sh
-```
+- **Labs:** the main exercises, in order.
+- **Group labs:** written to be solved together. They're fine to do alone.
+- **Optional labs:** extra challenges.
+- **Extra labs and lessons:** more practice and further reading at the end of each unit.
 
-Requires git and Python 3.10+. No third-party packages.
+## License
 
-## License and attribution
-
-Curriculum content © PDX Code Guild and its instructors, released under the
-[GNU GPL v3](LICENSE), the license of the original repositories. This repository is a derivative
-work under the same license. PDX Code Guild did not produce or endorse this compilation.
+[GNU GPL v3](LICENSE).

@@ -1,6 +1,6 @@
 # Lab 1: Bio
 
-Write up a short bio webpage for someone or something. It can be about a celebrity, a fictionary character, a place, a species, etc. Check out the [examples](https://github.com/PdxCodeGuild/class_bumble_bee/tree/main/2%20HTML%20%2B%20CSS/labs/images)
+Write up a short bio webpage for someone or something. It can be about a celebrity, a fictionary character, a place, a species, etc.
 
 ## Part 1
 
@@ -24,3 +24,8 @@ Write up a short bio webpage for someone or something. It can be about a celebri
 - Add a rounded border to the picture.
 - Change the bullet points on the list of places.
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab01_bio.html)

@@ -34,3 +34,9 @@ Add a "book detail" page
 - Detail
   - Show all the book's information
   - Show all the checkout records for that book
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/)

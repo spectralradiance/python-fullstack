@@ -12,7 +12,7 @@ def crop(x):
 
 
 def invert_image():
-    img = Image.open("C:\\Users\\student\\Desktop\\programs\\20171003-FullStack-Day\\1 - Python\\solutions\\Lenna.png")
+    img = Image.open("Lenna.png")
     width, height = img.size
     pixels = img.load()
 

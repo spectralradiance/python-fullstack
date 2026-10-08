@@ -2,7 +2,7 @@
 
 # Contact List
 
-Let's write class for managing a contact list. Copy the code below into a file and fill in the functions. Save the following files below to your personal code folder. To open the file, look at the [File IO doc](../../docs/20-file-io.md), to parse the JSON into a Python dictionary, look at [json module](../../../00-general/docs/12-json-csv-xml.md#json).
+Let's write class for managing a contact list. Copy the code below into a file and fill in the functions. Save the following files below to your personal code folder. To open the file, look at the [File IO doc](../../docs/20-file-io.md), to parse the JSON into a Python dictionary, look at [json module](../../../00-general/docs/10-json-csv-xml.md#json).
 
 
 **contacts.json**
@@ -114,3 +114,9 @@ while True:
         print('Command not recognized')
 ```
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab17_contact_list.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

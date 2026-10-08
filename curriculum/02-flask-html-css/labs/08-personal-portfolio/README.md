@@ -39,4 +39,3 @@ A personal portfolio website helps market yourself to prospective employers and 
 - [Raf Derolez](https://derolez.dev/)
 - [Rafael Caferati](https://caferati.me/)
 - [Stephen Kistner](https://here.with.sk/projects)
-

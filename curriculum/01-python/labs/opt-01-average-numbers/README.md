@@ -51,3 +51,9 @@ counts = list(word_dict.items()) # .items() returns a list of tuples
 counts.sort(key=lambda tup: tup[1], reverse=True)  # sort largest to smallest, based on count
 print(counts)
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab10-average_numbers.py)

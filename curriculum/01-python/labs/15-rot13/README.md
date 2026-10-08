@@ -20,3 +20,10 @@ Add support for capital letters, numbers, and special characters. These can be h
 1. Capital letters can be rotated as well, numbers and special characters can be put directly into the output (e.g. "hello world!" becomes "uryyb jbeyq!").
 
 2. Instead of using an alphabet of just letters, include numbers, spaces, and special characters as well.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab11_rot_cipher.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

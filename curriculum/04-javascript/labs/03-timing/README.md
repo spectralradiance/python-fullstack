@@ -8,3 +8,8 @@ Make a clock that displays the current time and updates every second. Check out 
 
 Create a page which randomly redirectly to another. Start with an array of urls (as strings), and randomly pick one using `Math.random()`. Then redirect to the page by assigning the url to [window.location](https://developer.mozilla.org/en-US/docs/Web/API/Window/location). Using JavaScript's timing events, show a 5-second countdown to the user. When the countdown is finished, redirect to a random page.
 
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

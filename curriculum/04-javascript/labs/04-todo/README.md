@@ -14,3 +14,10 @@ Removed items should disappear entirely. Completed items should appear at the bo
 ## Version 2
 
 Use Bootstrap, Materialize, or custom CSS to make it look beautiful.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab04-todo.html)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

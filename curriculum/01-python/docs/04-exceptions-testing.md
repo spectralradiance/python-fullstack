@@ -223,7 +223,7 @@ finally:
 
 ## Writing Custom Exceptions
 
-You can write your own exceptions by writing a custom [class](https://github.com/PdxCodeGuild/PythonFullStack2/blob/master/1%20Python/docs/15%20-%20Classes.md) for it and inheriting from `Exception`. This is useful if you had a particular name for your exception, or wanted it to carry particular information.
+You can write your own exceptions by writing a custom [class](17-classes.md) for it and inheriting from `Exception`. This is useful if you had a particular name for your exception, or wanted it to carry particular information.
 
 
 ```python

@@ -1,6 +1,6 @@
 # Post Bootcamp
 
-So you've graduated from PDX Code Guild, time to go out and fend off all those sweet job offers right? Believe it or not there's more you can do to make yourself seem valuable to potential employers. Now that you've learned to code, you can/should:
+So you've finished the course, time to go out and fend off all those sweet job offers right? Believe it or not there's more you can do to make yourself seem valuable to potential employers. Now that you've learned to code, you can/should:
 
 1. Figure out exactly what kind of job you're looking for.
 2. Work on personal coding projects to continue honing your skills, the more experience you
@@ -109,8 +109,3 @@ Meetups are also a great way to learn new skills. Especially in the programming 
 [Meetup](https://www.meetup.com/cities/us/or/portland/?_cookie-check=0D8LN47Dx1rxVqmq)
 
 
-Additionally, as a graduate of Code Guild, you are welcome to:
-
-- Email Instructors
-- Use the public Code Guild facilities as a workspace
-- Come to our demo days and public code meet-ups ([Meetup](https://www.meetup.com/Portland-Programmer-Network/) and [Calagator](http://calagator.org/))

@@ -19,3 +19,9 @@ There should be controls on the page to switch between the clock, stopwatch, and
 ## Version 4 (optional)
 
 Use animations when switching between the clock, stopwatch, and countdown timer (slide in/out, fade in/out).
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab06-clock.html)

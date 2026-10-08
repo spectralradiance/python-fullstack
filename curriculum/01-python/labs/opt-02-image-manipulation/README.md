@@ -110,3 +110,9 @@ for i in range(1000):
 
 img.show()
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab16-image_manipulation.py)

@@ -34,3 +34,9 @@ Write another function `check_anagram` that takes two strings as parameters and 
 >>> enter the second word: nag a ram
 >>> 'anagram' and 'nag a ram' are anagrams
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab17-palindrome_anagram.py)

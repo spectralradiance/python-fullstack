@@ -12,7 +12,7 @@
 # print(text)
 
 # running it with the green arrow or "python .\Code\Matthew\lab13_count_words.py"
-# the 'working directory' is class eagle
+# the 'working directory' is Python Fullstack
 # with open('./Code/Matthew/arabian_nights.txt', 'r', encoding='utf-8') as file:
 #     text = file.read()
 # print(text)

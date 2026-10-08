@@ -29,3 +29,10 @@ The application will have the following views:
 ## Version 2 (optional)
 
 Add the ability to delete a contact, and a separate page for editing a contact (basically the same form as the new contact, but with all the fields pre-populated with a given contact's info).
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

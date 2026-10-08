@@ -150,5 +150,3 @@ algorithm partition(A, lo, hi) is
             return j
         swap A[i] with A[j]
 ```
-
-

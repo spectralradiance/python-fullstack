@@ -44,4 +44,9 @@ Add a `complete` button next to each todo item, these can be `a` tags which link
 
 Add a `delete` button next to each todo item, which can also be an `a` tag that links to another view which deletes the item and redirects back to the first view.
 
+## Check your work
 
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

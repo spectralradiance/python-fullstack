@@ -69,3 +69,10 @@ Below is some sample input/output:
 > what are the output units? mi
 100 ft is 0.0189394 mi
 ```
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab12_unit_converter.py)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

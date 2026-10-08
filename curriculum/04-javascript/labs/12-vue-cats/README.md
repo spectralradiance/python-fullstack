@@ -23,4 +23,3 @@ There is another part of the cat api which will give a list of categories. Use t
 Now when the user presses the button to get a random cat image, use the selected category to filter the results.
 
 `https://api.thecatapi.com/v1/images/search?category_ids=1`
-

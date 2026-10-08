@@ -57,3 +57,9 @@ window.requestAnimationFrame(main_loop);
 - Have balls bounce off of eachother ([link](https://gamedevelopment.tutsplus.com/tutorials/when-worlds-collide-simulating-circle-circle-collisions--gamedev-769))
 
 - Add gravitational attraction between balls: the acceleration due to gravity can be calculated using [Newton's Universal Law of Gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation#Modern_form)
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/lab07-bouncing_ball.html)

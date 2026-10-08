@@ -19,3 +19,9 @@ Implement one of the following Python labs in a Flask app:
   - Have the user enter the number (5) and get back the corresponding word in english (five)
 - [ARI](../../../01-python/labs/19-ari/README.md)
   - Have the user enter in the URL for a Project Gutenberg book, load the book and show the ARI, grade level, etc.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- Student solutions: [student 1](student-solutions/student-1/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.

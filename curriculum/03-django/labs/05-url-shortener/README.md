@@ -23,3 +23,10 @@ Your app should contain the following:
 ## Part 2
 
 Add an IntegerField `counter` to the `ShortenedUrl` model, increment the counter every time the short url is accessed. Show the `counter` of each shortened url in the template.
+
+## Check your work
+
+Try the lab on your own first, then compare your approach:
+
+- [Reference solution](solution/)
+- Student solutions: [student 1](student-solutions/student-1/), [student 2](student-solutions/student-2/). These were written by learners taking the course and are shown as they wrote them, so expect a few bugs. Spotting them is good practice.
